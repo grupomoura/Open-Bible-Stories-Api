@@ -9,206 +9,206 @@ app.get("/stories", (req,res) => {
 })
 
 app.get("/stories/1", (req,res) => {
-    return res.json(stories.stories[0]["1. A Criação"])
+    return res.json(stories.stories[0])
 })
 
 app.get("/stories/2", (req,res) => {
-    return res.json(stories.stories[1]["2. O Pecado Entra no Mundo"])
+    return res.json(stories.stories[1])
 })
 
 app.get("/stories/3", (req,res) => {
-    return res.json(stories.stories[2]["3. O Dilúvio"])
+    return res.json(stories.stories[2])
 })
 
 app.get("/stories/4", (req,res) => {
-    return res.json(stories.stories[3]["4. O Pacto de Deus com Abraão"])
+    return res.json(stories.stories[3])
 })
 
 app.get("/stories/5", (req,res) => {
-    return res.json(stories.stories[4]["5. O Filho da Promessa"])
+    return res.json(stories.stories[4])
 })
 
 app.get("/stories/6", (req,res) => {
-    return res.json(stories.stories[5]["6. A Providência de Deus para Isaque"])
+    return res.json(stories.stories[5])
 })
 
 app.get("/stories/7", (req,res) => {
-    return res.json(stories.stories[6]["7. Deus Abençoa Jacó"])
+    return res.json(stories.stories[6])
 })
 
 app.get("/stories/8", (req,res) => {
-    return res.json(stories.stories[7]["8. Deus salva José e sua Família"])
+    return res.json(stories.stories[7])
 })
 
 app.get("/stories/9", (req,res) => {
-    return res.json(stories.stories[8]["9. Deus chama Moisés"])
+    return res.json(stories.stories[8])
 })
 
 app.get("/stories/10", (req,res) => {
-    return res.json(stories.stories[9]["10. As Dez Pragas"])
+    return res.json(stories.stories[9])
 })
 
 app.get("/stories/11", (req,res) => {
-    return res.json(stories.stories[1]["11. A Páscoa"])
+    return res.json(stories.stories[10])
 })
 
 app.get("/stories/12", (req,res) => {
-    return res.json(stories.stories[1]["12. O Êxodo"])
+    return res.json(stories.stories[11])
 })
 
 app.get("/stories/13", (req,res) => {
-    return res.json(stories.stories[1]["13. O Pacto de Deus com Israel"])
+    return res.json(stories.stories[12])
 })
 
 app.get("/stories/14", (req,res) => {
-    return res.json(stories.stories[1]["14. Peregrinando no Deserto"])
+    return res.json(stories.stories[13])
 })
 
 app.get("/stories/15", (req,res) => {
-    return res.json(stories.stories[1]["15. A Terra Prometida"])
+    return res.json(stories.stories[14])
 })
 
 app.get("/stories/16", (req,res) => {
-    return res.json(stories.stories[1]["16. Os Libertadores"])
+    return res.json(stories.stories[15])
 })
 
 app.get("/stories/17", (req,res) => {
-    return res.json(stories.stories[1]["17. O Pacto de Deus com Davi"])
+    return res.json(stories.stories[16])
 })
 
 app.get("/stories/18", (req,res) => {
-    return res.json(stories.stories[1]["18. O Reino Dividido"])
+    return res.json(stories.stories[17])
 })
 
 app.get("/stories/19", (req,res) => {
-    return res.json(stories.stories[1]["19. Os Profetas"])
+    return res.json(stories.stories[18])
 })
 
 app.get("/stories/20", (req,res) => {
-    return res.json(stories.stories[1]["20. O Exílio e o Retorno"])
+    return res.json(stories.stories[19])
 })
 
 app.get("/stories/21", (req,res) => {
-    return res.json(stories.stories[2]["21. Deus Promete o Messias"])
+    return res.json(stories.stories[20])
 })
 
 app.get("/stories/22", (req,res) => {
-    return res.json(stories.stories[2]["22. O Nascimento de João"])
+    return res.json(stories.stories[21])
 })
 
 app.get("/stories/23", (req,res) => {
-    return res.json(stories.stories[2]["23. O Nascimento de Jesus"])
+    return res.json(stories.stories[22])
 })
 
 app.get("/stories/24", (req,res) => {
-    return res.json(stories.stories[2]["24. João Batiza Jesus"])
+    return res.json(stories.stories[23])
 })
 
 app.get("/stories/25", (req,res) => {
-    return res.json(stories.stories[2]["25. Satanás Tenta Jesus"])
+    return res.json(stories.stories[24])
 })
 
 app.get("/stories/26", (req,res) => {
-    return res.json(stories.stories[2]["26. Jesus Inicia o Seu Ministério"])
+    return res.json(stories.stories[25])
 })
 
 app.get("/stories/27", (req,res) => {
-    return res.json(stories.stories[2]["27. A História do Bom Samaritano"])
+    return res.json(stories.stories[26])
 })
 
 app.get("/stories/28", (req,res) => {
-    return res.json(stories.stories[2]["28. O Jovem Rico"])
+    return res.json(stories.stories[27])
 })
 
 app.get("/stories/29", (req,res) => {
-    return res.json(stories.stories[2]["29. A História do Servo sem Compaixão"])
+    return res.json(stories.stories[28])
 })
 
 app.get("/stories/30", (req,res) => {
-    return res.json(stories.stories[2]["30. Jesus Alimenta Cinco Mil Pessoas"])
+    return res.json(stories.stories[29])
 })
 
 app.get("/stories/31", (req,res) => {
-    return res.json(stories.stories[3]["31. Jesus Anda Sobre as Águas"])
+    return res.json(stories.stories[30])
 })
 
 app.get("/stories/32", (req,res) => {
-    return res.json(stories.stories[3]["32. Jesus Cura Um Endemoninhado e Uma Mulher Enferma"])
+    return res.json(stories.stories[31])
 })
 
 app.get("/stories/33", (req,res) => {
-    return res.json(stories.stories[3]["33. A História do Semeador"])
+    return res.json(stories.stories[32])
 })
 
 app.get("/stories/34", (req,res) => {
-    return res.json(stories.stories[3]["34. Jesus Ensina Outras Histórias"])
+    return res.json(stories.stories[33])
 })
 
 app.get("/stories/35", (req,res) => {
-    return res.json(stories.stories[3]["35. A História do Pai Compassivo"])
+    return res.json(stories.stories[34])
 })
 
 app.get("/stories/36", (req,res) => {
-    return res.json(stories.stories[3]["36. A Transfiguração"])
+    return res.json(stories.stories[35])
 })
 
 app.get("/stories/37", (req,res) => {
-    return res.json(stories.stories[3]["37. Jesus Ressuscita Lázaro"])
+    return res.json(stories.stories[36])
 })
 
 app.get("/stories/38", (req,res) => {
-    return res.json(stories.stories[3]["38. Jesus é Traído"])
+    return res.json(stories.stories[37])
 })
 
 app.get("/stories/39", (req,res) => {
-    return res.json(stories.stories[3]["39. Jesus é Julgado"])
+    return res.json(stories.stories[38])
 })
 
 app.get("/stories/40", (req,res) => {
-    return res.json(stories.stories[3]["40. Jesus é Crucificado"])
+    return res.json(stories.stories[39])
 })
 
 app.get("/stories/41", (req,res) => {
-    return res.json(stories.stories[4]["41. Jesus Ressuscita dos Mortos"])
+    return res.json(stories.stories[40])
 })
 
 app.get("/stories/42", (req,res) => {
-    return res.json(stories.stories[4]["42. Jesus Retorna ao Céu"])
+    return res.json(stories.stories[41])
 })
 
 app.get("/stories/43", (req,res) => {
-    return res.json(stories.stories[4]["43. O Início da Igreja"])
+    return res.json(stories.stories[42])
 })
 
 app.get("/stories/44", (req,res) => {
-    return res.json(stories.stories[4]["44. A Cura de Um Mendigo"])
+    return res.json(stories.stories[43])
 })
 
 app.get("/stories/45", (req,res) => {
-    return res.json(stories.stories[4]["45. Felipe e o Oficial Etíope"])
+    return res.json(stories.stories[44])
 })
 
 app.get("/stories/46", (req,res) => {
-    return res.json(stories.stories[4]["46. A Conversão de Paulo"])
+    return res.json(stories.stories[45])
 })
 
 app.get("/stories/47", (req,res) => {
-    return res.json(stories.stories[4]["47. Paulo e Silas em Filipos"])
+    return res.json(stories.stories[46])
 })
 
 app.get("/stories/48", (req,res) => {
-    return res.json(stories.stories[4]["48. Jesus é o Messias Prometido"])
+    return res.json(stories.stories[47])
 })
 
 app.get("/stories/49", (req,res) => {
-    return res.json(stories.stories[4]["49. O Novo Pacto com Deus"])
+    return res.json(stories.stories[48])
 })
 
 app.get("/stories/50", (req,res) => {
-    return res.json(stories.stories[4]["50. A Volta de Jesus"])
+    return res.json(stories.stories[49])
 })
 
 
-app.listen(port, () => {5
+app.listen(port, () => {
     console.log("Server ON")
 })
