@@ -1,8 +1,5 @@
-{"oldTestment":[
-    {
-        "kind": "youtube#playlistItemListResponse",
-        "etag": "QlFaNd-fp4W2xEoI2Ycdh5qQb7A",
-        "items": [
+{
+    "oldTestment":[
           {
             "kind": "youtube#playlistItem",
             "etag": "uikfxNVjjNT_Mhm21y-0gev4s9o",
@@ -1931,20 +1928,10 @@
             }
           }
         ],
-        "pageInfo": {
-          "totalResults": 41,
-          "resultsPerPage": 50
-        }
-      }
-      
-          
-    ],
+   
+    
     "newTestment":[
         {
-            "kind": "youtube#playlistItemListResponse",
-            "etag": "XgPqYUaLUK17a_RU1Cqs34DwG_8",
-            "items": [
-              {
                 "kind": "youtube#playlistItem",
                 "etag": "FIFONOa6GzndoZEGCPkKnhMnhVo",
                 "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41NkI0NEY2RDEwNTU3Q0M2",
@@ -3373,12 +3360,7 @@
                   }
                 }
               }
-            ],
-            "pageInfo": {
-              "totalResults": 31,
-              "resultsPerPage": 50
-            }
-          }
-          
-    ]  
+            ]
 }
+          
+
