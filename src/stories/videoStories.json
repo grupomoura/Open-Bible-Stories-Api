@@ -1,0 +1,3384 @@
+{"oldTestment":[
+    {
+        "kind": "youtube#playlistItemListResponse",
+        "etag": "QlFaNd-fp4W2xEoI2Ycdh5qQb7A",
+        "items": [
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "uikfxNVjjNT_Mhm21y-0gev4s9o",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Gênesis 1-11 || Bible Project Português ||",
+              "description": "Visão Geral: Gênesis 1-11\nAssista o nosso vídeo com a visão geral do livro de Gênesis dos capítulos 1 a 11, que explica o conceito literário do livro e as suas ideias principais. Em Gênesis, Deus cria um mundo bom e dá instruções aos humanos para que possam governar esse mundo, mas eles cedem às forças do mal e estragam tudo.\n\n@BibleProject - Português \nDevocional\nGenesis\n\n#bibleprojectbrasil #antigotestamento #leaiasescrituras #bibleproject #Devocionaldiario",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/syzvUKr4f44/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/syzvUKr4f44/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/syzvUKr4f44/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/syzvUKr4f44/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/syzvUKr4f44/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "syzvUKr4f44"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "qXEyk9RbOmD-IuYsDVgBTAlzI-8",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Gênesis 12-50 || Bible Project Português ||",
+              "description": "Visão Geral: Gênesis 12-50\nAssista o nosso vídeo com a visão geral do livro de Gênesis dos capítulos 12 a 50, que explica o conceito literário do livro e as suas ideias principais. Em Gênesis, Deus promete abençoar a humanidade rebelde através da família de Abraão, apesar das suas falhas constantes e insensatez.\n\n@BibleProject - Português \nDevocional\nGenesis\n\n#bibleprojectportugues #antigotestamento #leaiasescrituras #bibleproject",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/VaZdOfekgo8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/VaZdOfekgo8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/VaZdOfekgo8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/VaZdOfekgo8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/VaZdOfekgo8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 1,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "VaZdOfekgo8"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "DgrcmXZrgVVFAI7TJ56I3KXaR1k",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Êxodo 1-18 || Bible Project Português ||",
+              "description": "Visão Geral: Êxodo 1-18\nAssista o nosso vídeo com a visão geral do livro de Êxodo dos capítulos 1 a 18, que explica o conceito literário do livro e as suas ideias principais. Em Êxodo, Deus resgata os Israelitas de uma vida de escravidão no Egito e confronta o mal e as injustiças do Faraó.\n\n@BibleProject - Português \nDevocional\nExodo\n\n#AntigoTestamento #BibleProject #DevocionalDiario",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/TF6whgRN6AM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/TF6whgRN6AM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/TF6whgRN6AM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/TF6whgRN6AM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/TF6whgRN6AM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 2,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "TF6whgRN6AM"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "AaYDyGORmW4OW4dEgy0HBew4RyE",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Êxodo 19-40 || Bible Project Português ||",
+              "description": "Visão Geral: Êxodo 19-40 \nAssista o nosso vídeo com a visão geral do livro de Êxodo dos capítulos 19 a 40, que explica o conceito literário do livro e as suas ideias principais. Em Êxodo, Deus convida os Israelitas a um relacionamento de aliança e vive no meio deles, no Tabernáculo, mas Israel age em rebeldia e estraga o relacionamento.\n\n@BibleProject - Português \nDevocional\nBibleProject\nExodo\n\n#AntigoTestamento #BibleProject #Exodo #LeiaasEscrituras #DevocionalDiario",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cfZVX_ns8ds/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cfZVX_ns8ds/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cfZVX_ns8ds/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/cfZVX_ns8ds/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/cfZVX_ns8ds/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 3,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "cfZVX_ns8ds"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "1Wo0_M7XKXgcJ6h_cNw0sKvlFds",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Levítico || Bible Project Português ||",
+              "description": "Visão Geral: Levítico\nAssista o nosso vídeo com a visão geral do livro de Levítico que explica o conceito literário do livro e as suas ideias principais. Em Levítico, o Deus santo de Israel convida o povo a viver na Sua presença, apesar de serem pecadores, através de uma série de rituais e instituições sagradas.\n\n@BibleProject - Português \nDevocional\nLevitico\n\n#AntigoTestamento #BibleProject #LeiaasEscrituras",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/bR5qA3fmpEM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/bR5qA3fmpEM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/bR5qA3fmpEM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/bR5qA3fmpEM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/bR5qA3fmpEM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 4,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "bR5qA3fmpEM"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "sa2t0dj3C-bneh2xsMgH0ssh2Iw",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Números || Bible Project Português ||",
+              "description": "Visão Geral: Números \nAssista o nosso vídeo com a visão geral do livro de Números que explica o conceito literário do livro e as suas ideias principais. Em Números, Israel viaja no deserto a caminho da terra prometida a Abraão. A sua rebelião repetida é recebida pela justiça e misericórdia de Deus.\n\n@BibleProject - Português \nDevocional\nNumeros\n\n#AntigoTestamento #Devocional #Numeros #Pentateuco",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6MtqQzOTukQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6MtqQzOTukQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6MtqQzOTukQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/6MtqQzOTukQ/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/6MtqQzOTukQ/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 5,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6MtqQzOTukQ"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "c3DZH05T_fxT-YmgHM7H_JsmBu8",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Deuteronômio || Bible Project Português ||",
+              "description": "Visão Geral: Deuteronômio\nAssista o nosso vídeo com a visão geral do livro de Deuteronômio que explica o conceito literário do livro e as suas ideias principais. Em Deuteronômio, Moisés entrega as suas últimas palavras de sabedoria e precaução antes dos Israelitas entrarem na terra prometida, desafiando-os a serem fiéis a Deus.\n\nDevocional\nBibleProject\nDeuteronomio\n\n@BibleProject - Português #Devocional #Deuteronomio #Pentateuco #Bíblia #AntigoTestamento",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/udwkeytvMPI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/udwkeytvMPI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/udwkeytvMPI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/udwkeytvMPI/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/udwkeytvMPI/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 6,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "udwkeytvMPI"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "yZS606nGj0HP5tdDcOdT6jVTBgw",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Josué || Bible Project Português ||",
+              "description": "Visão Geral: Josué\nAssista o nosso vídeo com a visão geral do livro de Josué que explica o conceito literário do livro e as suas ideias principais. Depois da morte de Moisés, Josué lidera Israel e eles se estabelecem na terra prometida que está sendo ocupada pelos Cananeus.\n\nDevocional\nBibleProject\nJosue\n\n@BibleProject - Português #Devocional #AntigoTestamento #Josue #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/OjB3aTBrgS8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/OjB3aTBrgS8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/OjB3aTBrgS8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/OjB3aTBrgS8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/OjB3aTBrgS8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 7,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "OjB3aTBrgS8"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "qbrPinjKnVUwfH5LM_V4rSocaew",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Juízes || Bible Project Português ||",
+              "description": "Visão Geral: Juízes\nAssista o nosso vídeo com a visão geral do livro de Juízes que explica o conceito literário do livro e as suas ideias principais. Em Juízes, os Israelitas se afastam de Deus e enfrentam as consequências. Deus levanta juízes durante ciclos de rebelião, arrependimento e restauração.\n\nDevocional\nBibleProject\nJuizes\n\n@BibleProject - Português #Devocional #AntigoTestamento #Juizes #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/cPu3SHxOFDo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/cPu3SHxOFDo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/cPu3SHxOFDo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/cPu3SHxOFDo/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/cPu3SHxOFDo/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 8,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "cPu3SHxOFDo"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "gvB4773P-imbuQG1a9Kh8FsbJQ8",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "1 Samuel || Bible Project Português ||",
+              "description": "Visão Geral: 1 Samuel\nAssista o nosso vídeo com a visão geral do Primeiro livro de Samuel que explica o conceito literário do livro e as suas ideias principais. Em Primeiro Samuel, Deus relutantemente levanta reis para governarem os Israelitas.\n\nDevocional\nBibleProject\n1Samuel\n\n@BibleProject - Português #Devocional #1Samuel #AntigoTestamento",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/othkYCAsskc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/othkYCAsskc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/othkYCAsskc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/othkYCAsskc/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/othkYCAsskc/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 9,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "othkYCAsskc"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "E2AxHH2gdXWzsQpLPXOlQ6Dz2rE",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "2 Samuel || Bible Project Português ||",
+              "description": "Visão Geral: 2 Samuel\nAssista o nosso vídeo com a visão geral do Segundo livro de Samuel que explica o conceito literário do livro e as suas ideias principais. Em Segundo Samuel, Davi torna-se no rei mais fiel de Deus, mas depois se rebela, resultando na destruição lenta da sua família e do seu reino.\n\nDevocional\nBibleProject\n\n@BibleProject - Português #Devocional #AntigoTestamento #2Samuel #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/YApXtfUyODg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/YApXtfUyODg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/YApXtfUyODg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/YApXtfUyODg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/YApXtfUyODg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 10,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "YApXtfUyODg"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "dCx8F88_e_xsjTmHUmB_XAPF4Kc",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "1-2 Reis || Bible Project Português ||",
+              "description": "Visão Geral: 1-2 Reis\nAssista o nosso vídeo com a visão geral do Primeiro e Segundo livro de Reis que explica o conceito literário do livro e as suas ideias principais. Em Primeiro e Segundo Reis, o filho de Davi, Salomão, lidera Israel à grandeza, apenas para fracassar e levar Israel a uma guerra civil e, finalmente, à destruição e ao exílio.\n\nDevocional\nBibleProject\n1 Reis\n2 Reis\n\n@BibleProject - Português \n\n#Devocional #AntigoTestamento #1Reis #2Reis #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 11,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6R5wFQWFDL4"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "T-Pog9QHu1I5gHr_uWpiz7LZJVA",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Isaías 1-39 || Bible Project Português ||",
+              "description": "Visão Geral: Isaías 1-39\nAssista o nosso vídeo com a visão geral de Isaías 1-39 que explica o conceito literário do livro e as suas ideias principais. Isaías anuncia que o julgamento de Deus irá purificar Israel e preparar o seu povo para a chegada do rei messiânico e de uma nova Jerusalém.\n\nDevocional\nBibleProject\nIsaias\n\n@BibleProject - Português #Devocional #AntigoTestamento #Isaias #Bíblia #Estudo",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/EZ5LTlriVLs/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/EZ5LTlriVLs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/EZ5LTlriVLs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/EZ5LTlriVLs/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/EZ5LTlriVLs/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 12,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "EZ5LTlriVLs"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "rtLHYHYX0b18wArSej2huTt_d7o",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Isaías 40-66 || Bible Project Português ||",
+              "description": "Visão Geral: Isaías 40-66\nAssista o nosso vídeo com a visão geral de Isaías 40-66 que explica o conceito literário do livro e as suas ideias principais. Isaías anuncia que o julgamento de Deus irá purificar Israel e preparar o seu povo para a chegada do rei messiânico e de uma nova Jerusalém.\n\nDevocional\nIsaias\n\n@BibleProject - Português #Devocional #AntigoTestamento",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/tAWKUvWe5JI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/tAWKUvWe5JI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/tAWKUvWe5JI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/tAWKUvWe5JI/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/tAWKUvWe5JI/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 13,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "tAWKUvWe5JI"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "7gh0Iw3LUUwi1yEatEsuazEq3G0",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Jeremias || Bible Project Português ||",
+              "description": "Visão Geral: Jeremias\nAssista o nosso vídeo com a visão geral de Jeremias que explica o conceito literário do livro e as suas ideias principais. Jeremias anuncia que Deus irá julgar os pecados de Israel com um exílio para a Babilônia. E então, ele vive os horrores das suas previsões.\n\nDevocional\nJeremias\n\n@BibleProject - Português \n\n#Devocional #AntigoTestamento #Jeremias #Profetas",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1eSlWcmPxH4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1eSlWcmPxH4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1eSlWcmPxH4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/1eSlWcmPxH4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/1eSlWcmPxH4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 14,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1eSlWcmPxH4"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "U_NQqLZ3S_ziZIlsabhXdpywqy0",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Ezequiel 1-33 || Bible Project Português ||",
+              "description": "Visão Geral: Ezequiel 1-33\nAssista o nosso vídeo com a visão geral de Ezequiel 1-33 que explica o conceito literário do livro e as suas ideias principais. No meio dos exilados na Babilônia, Ezequiel mostra que Israel mereceu o seu julgamento, e que a justiça de Deus cria esperança para o futuro.\n\nDevocional\nEzequiel\n@BibleProject - Português \n\n#AntigoTestamento #Profetas #Devocional #Bíblia #LeiaaBíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/isBjPaTB5Rk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/isBjPaTB5Rk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/isBjPaTB5Rk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/isBjPaTB5Rk/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/isBjPaTB5Rk/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 15,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "isBjPaTB5Rk"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "sh1vwq4zFxlt44yW7tMMnz07vWY",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Ezequiel 34-48 || Bible Project Português ||",
+              "description": "Visão Geral: Ezequiel 34-48\nAssista o nosso vídeo com a visão geral de Ezequiel 34-48 que explica o conceito literário do livro e as suas ideias principais. No meio sos exilados na Babilônia, Ezequiel mostra que Israel mereceu o seu julgamento, e que a justiça de Deus cria esperança para o futuro.\n\nDevocional\nEzequiel\n@BibleProject - Português \n\n#AntigoTestamento #Ezequiel #Profetas #Devocional #Leituradiaria #Biblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/TyNUYAy7zp4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/TyNUYAy7zp4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/TyNUYAy7zp4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/TyNUYAy7zp4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/TyNUYAy7zp4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 16,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "TyNUYAy7zp4"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "VjP62sSL0_71LyUKSMcXpmLdEYM",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Oséias || Bible Project Português ||",
+              "description": "Visão Geral: Oséias\nAssista o nosso vídeo com a visão geral de Oséias explicando o conceito literário do livro e as suas ideias principais. Oséias acusa Israel de quebrar a aliança com Deus, e avisa-os das trágicas consequências a seguir.\n \nDevocional \nBibleProject\nOseias\n\n@BibleProject - Português  \n\n\n#Devocional #AntigoTestamento #Bíblia #Oseias #ProfetasMenores",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/wGozU771I_w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/wGozU771I_w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/wGozU771I_w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/wGozU771I_w/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/wGozU771I_w/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 17,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wGozU771I_w"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "otoCov0q9iViwkSxS0bf_m5X94g",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Joel || Bible Project Português ||",
+              "description": "Visão Geral: Joel\nAssista o nosso vídeo com a visão geral de Joel que explica o conceito literário do livro e as suas ideias principais. Joel reflete no \"Dia do Senhor\" e como o verdadeiro arrependimento trará a grande restauração esperada nos outros livros proféticos.\n\nDevocional\nBibleProject\n\n@BibleProject - Português #AntigoTestamento #Bíblia #Estudo #Profetas",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/uQoMheoe904/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/uQoMheoe904/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/uQoMheoe904/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/uQoMheoe904/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/uQoMheoe904/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 18,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "uQoMheoe904"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "XhpHqgHoHzQRHdzwhZkKM4I073Y",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Amós || Bible Project Português ||",
+              "description": "Visão Geral: Amós\nAssista o nosso vídeo com a visão geral de Amós que explica o conceito literário do livro e as suas ideias principais. Amós acusa Israel de quebrar a sua aliança com Deus, e destaca como a sua idolatria levou à injustiça e à negligência dos pobres.\n\nDevocional\nBibleProject\nAmos\n\n@BibleProject - Português #Devocional #AntigoTestamento #Profetas",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/NXnDB-paGV4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/NXnDB-paGV4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/NXnDB-paGV4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/NXnDB-paGV4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/NXnDB-paGV4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 19,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "NXnDB-paGV4"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "pxGANhxUfuWnEGnnETp6iAQ0gts",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Obadias || Bible Project Português ||",
+              "description": "Visão Geral: Obadias\nAssista o nosso vídeo com a visão geral de Obadias que explica o conceito literário do livro e as suas ideias principais. Obadias anuncia a queda de Edom na Babilônia, que é uma imagem de como Deus destruirá todas as nações arrogantes e violentas.\n\nDevocional\nObadias\n\n@BibleProject - Português \n\n#AntigoTestamento #Profetas #LeituraDiaria #Devocional",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/ZsNqqDZiG1Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/ZsNqqDZiG1Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/ZsNqqDZiG1Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/ZsNqqDZiG1Y/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/ZsNqqDZiG1Y/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 20,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ZsNqqDZiG1Y"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "FLQAEiK2VBsX4UZhuH_lww1B2i8",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Jonas || Bible Project Português ||",
+              "description": "Visão Geral: Jonas\nAssista o nosso vídeo com a visão geral de Jonas que explica o conceito literário do livro e as suas ideias principais. O livro de Jonas é uma história subversa sobre um profeta rebelde que despreza seu Deus por amar os seus inimigos.\n\nDevocional\nBibleProject\n\n@BibleProject - Português #Profetas #AntigoTestamento # Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/FB-E5jUZas0/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/FB-E5jUZas0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/FB-E5jUZas0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/FB-E5jUZas0/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/FB-E5jUZas0/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 21,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FB-E5jUZas0"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "nXLGuzeLuN63E6TsuJ-bIe2HXnY",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Miquéias || Bible Project Português ||",
+              "description": "Visão Geral: Miquéias\nAssista o nosso vídeo com a visão geral de Miquéias que explica o conceito literário do livro e as suas ideias principais. Miquéias anuncia que a justiça de Deus está chegando, a fim de criar um novo futuro de amor e fidelidade no outro lado do pecado e exílio de Israel.\n\nDevocional\nMiqueias \nBibleProject\n\n@BibleProject - Português \n\n#AntigoTestamento #Profetas #Bíblia #Devocional #LeituraDiaria",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/06A48hAXQA8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/06A48hAXQA8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/06A48hAXQA8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/06A48hAXQA8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/06A48hAXQA8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 22,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "06A48hAXQA8"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "a9h3oZb3ruxvdALyBX-ymoDgVkQ",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Naum || Bible Project Português ||",
+              "description": "Visão Geral: Naum\nAssista o nosso vídeo com a visão geral de Naum que explica o conceito literário do livro e as suas ideias principais. Naum retrata a queda de Nínive e Assíria como uma imagem de como Deus enfrentará e derrubará todos os violentos impérios humanos.\n\nDevocional \nNaum\nBibleProject\n\n@BibleProject - Português \n\n#AntigoTestamento #Naum #Profetas #Devocional #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/Sm3Ag-faQr0/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/Sm3Ag-faQr0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/Sm3Ag-faQr0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/Sm3Ag-faQr0/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/Sm3Ag-faQr0/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 23,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Sm3Ag-faQr0"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "3cF9583Yt_jJQk1I0skiFYDEkLY",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Habacuque || Bible Project Português ||",
+              "description": "Visão Geral: Habacuque\nAssista o nosso vídeo com a visão geral de Habacuque que explica o conceito literário do livro e as suas ideias principais. Habacuque luta para entender a bondade de Deus no meio de tanta maldade e injustiça que existe no mundo.\n\nDevocional\nBibleProject\n\n@BibleProject - Português  #AntigoTestamento #Biblia #Habacuque",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/X9mMgfw2AFM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/X9mMgfw2AFM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/X9mMgfw2AFM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/X9mMgfw2AFM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/X9mMgfw2AFM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 24,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "X9mMgfw2AFM"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "oNjymeryOquddKdxLCdcK6is87g",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Sofonias || Bible Project Português ||",
+              "description": "Visão Geral: Sofonias\nAssista o nosso vídeo com a visão geral de Sofonias que explica o conceito literário do livro e as suas ideias principais. Sofonias anuncia o julgamento purificador de Deus em Israel. Isso removerá o mal e abrirá um novo futuro onde todas as pessoas podem prosperar em paz.\n\nDevocional\nBibleProject\n\n@BibleProject - Português\n#Profetas #AntigoTestamento #Biblia #Sofonias #DevocionalDiario #Biblia #Devocional",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/VirAEdcrQG0/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/VirAEdcrQG0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/VirAEdcrQG0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/VirAEdcrQG0/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/VirAEdcrQG0/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 25,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "VirAEdcrQG0"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "d0eqSidlMOl1FB-iigrfxSppMPQ",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Ageu || Bible Project Português ||",
+              "description": "Visão Geral: Ageu\nAssista o nosso vídeo com a visão geral de Ageu que explica o conceito literário do livro e as suas ideias principais. Ageu desafia Israel após o exílio a permanecer fiel ao seu Deus e a reconstruir o templo.\n\nDevocional\nAgeu\n\n@BibleProject - Português \n\n#AntigoTestamento #Ageu #Profeta #Exilio #Esdras #Neemias",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/VM5OH90xmjE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/VM5OH90xmjE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/VM5OH90xmjE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/VM5OH90xmjE/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/VM5OH90xmjE/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 26,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "VM5OH90xmjE"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "TRdAb-NxXXhKiJBuk7PWjmFrVqE",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Zacarias || Bible Project Português ||",
+              "description": "Visão Geral: Zacarias\nAssista o nosso vídeo com a visão geral de Zacarias que explica o conceito literário do livro e as suas ideias principais. As visões de Zacarias alimentam a esperança na promessa do futuro reino messiânico, e desafiam Israel após o exílio a permanecer fiel a Deus.\n\nDevocional\nZacarias\n\n@BibleProject - Português \n\n#AntigoTestamento #Zacarias #Profetas #Biblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/fgM4uynP7LU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/fgM4uynP7LU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/fgM4uynP7LU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/fgM4uynP7LU/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/fgM4uynP7LU/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 27,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fgM4uynP7LU"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "hPBuEY181f4ZnNlS23SWKxIJJC8",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Malaquias || Bible Project Português ||",
+              "description": "Visão Geral: Malaquias\nAssista o nosso vídeo com a visão geral de Malaquias que explica o conceito literário do livro e as suas ideias principais. Malaquias acusa Israel de egoísmo após o exílio e anuncia que o dia do Senhor purificará Israel e os preparará para o reino de Deus.\n\nDevocional\nMalaquias\nBibleProject\n\n@BibleProject - Português \n\n#Devocional #AntigoTestamento #Profetas #Biblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/-HEQoeS1NtM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/-HEQoeS1NtM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/-HEQoeS1NtM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/-HEQoeS1NtM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/-HEQoeS1NtM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 28,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-HEQoeS1NtM"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "L0VIjAazg3bdGvAIP8jzBPfoNhA",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Salmos || Bible Project Português ||",
+              "description": "Visão Geral: Salmos\nAssista o nosso vídeo com a visão geral de Salmos que explica o conceito literário do livro e as suas ideias principais. O livro dos Salmos foi projetado para ser o livro de orações do povo de Deus enquanto esperam o Messias e seu reino vindouro.\n\nDevocional\nBibleProject\n\n@BibleProject - Português \n\n#AntigoTestamento #Salmos #Louvor #Devocional #Biblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/fOPF8khGeII/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/fOPF8khGeII/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/fOPF8khGeII/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/fOPF8khGeII/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/fOPF8khGeII/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 29,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fOPF8khGeII"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "l55LN-anXQAEUrlaA301B_jnIDM",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Provérbios || Bible Project Português ||",
+              "description": "Visão Geral: Provérbios\nAssista o nosso vídeo com a visão geral de Provérbios que explica o conceito literário do livro e as suas ideias principais. O livro de Provérbios convida as pessoas a viverem com sabedoria e temor ao Senhor a fim de experimentarem a boa vida.\n\nDevocional\nBibleProject\nProverbios\n\n@BibleProject - Português \n\n#Devocional #Bíblia #AntigoTestamento",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/W2zeUOSXMjA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/W2zeUOSXMjA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/W2zeUOSXMjA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/W2zeUOSXMjA/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/W2zeUOSXMjA/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 30,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "W2zeUOSXMjA"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "E2y0-5zv6CsDsZnCpQ_rDrwHTDY",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Jó || Bible Project Português ||",
+              "description": "Visão Geral: Jó\nAssista o nosso vídeo com a visão geral de Jó que explica o conceito literário do livro e as suas ideias principais. Jó explora a pergunta difícil sobre o relacionamento entre Deus e o sofrimento humano, e nos convida a confiar na sabedoria de Deus e no Seu caráter.\n\nDevocional\nJo\n\n@BibleProject - Português #Devocional #AntigoTestamento #Jo #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6rCWVsNyIqg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6rCWVsNyIqg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6rCWVsNyIqg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/6rCWVsNyIqg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/6rCWVsNyIqg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 31,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6rCWVsNyIqg"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "oKW8P3kFPj6BPXJ6dt-dIXzN688",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Cântico dos Cânticos || Bible Project Português ||",
+              "description": "Visão Geral: Cântico dos Cânticos\nAssista o nosso vídeo com a visão geral do Cântico dos Cânticos que explica o conceito literário do livro e as suas ideias principais. O Cântico dos Cânticos é uma coleção de antigos poemas de amor Israelita que celebra a beleza e poder do dom de Deus no amor e desejo sexual.\n\nDevocional\nBibleProject\nCantico dos Canticos\n\n@BibleProject - Português #AntigoTestamento #Canticos #Devocional #BibleProject",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/0QXA35lz9rA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/0QXA35lz9rA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/0QXA35lz9rA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/0QXA35lz9rA/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/0QXA35lz9rA/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 32,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0QXA35lz9rA"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "1kyvvH7ULRf8suKAoL40aTirNlA",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Rute || Bible Project Português ||",
+              "description": "Visão Geral: Rute\nAssista o nosso vídeo com a visão geral do livro de Rute que explica o conceito literário do livro e as suas ideias principais. Em Rute, uma família Israelita enfrenta a tragédia da perda e Deus usa a fidelidade de uma mulher não-Israelita para trazer restauração na família de Davi.\n\nDevocional\nBibleProject\n\n@BibleProject - Português #Devocional #AntigoTestamento #Rute",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/m3voBpWv5Ig/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/m3voBpWv5Ig/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/m3voBpWv5Ig/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/m3voBpWv5Ig/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/m3voBpWv5Ig/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 33,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "m3voBpWv5Ig"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "Nyx2wOtgDElL67YJ0oAj9T0s4eg",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Lamentações || Bible Project Português ||",
+              "description": "Visão Geral: Lamentações\nAssista o nosso vídeo com a visão geral de Lamentações que explica o conceito literário do livro e as suas ideias principais. Lamentações é uma coleção de cinco poemas funerários oferecidos em nome de Jerusalem após a sua destruição pela Babilônia.\n\nDevocional\nBibleProject\nLamentacoes\n\n@BibleProject - Português #AntigoTestamento #Devocional #Bíblia #Lamentacoes",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/g43dhirNO9Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/g43dhirNO9Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/g43dhirNO9Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/g43dhirNO9Y/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/g43dhirNO9Y/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 34,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "g43dhirNO9Y"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "RAAXRfem7wngLPhIn3VzqNNQO2g",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:41Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Eclesiastes || Bible Project Português ||",
+              "description": "Visão Geral: Eclesiastes\nAssista o nosso vídeo com a visão geral de Eclesiastes que explica o conceito literário do livro e as suas ideias principais. Este livro nos obriga a enfrentar a morte e o acaso, e os desafios colocados perante uma crença ingênua na bondade de Deus.\n\nDevocional\nBibleProject\n\n@BibleProject - Português \n\n#AntigoTestamento #Devocional #Estudo #Bíblia #Eclesiastes #SabedoriaBiblica #Salomão",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/E-nMyBL46bQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/E-nMyBL46bQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/E-nMyBL46bQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/E-nMyBL46bQ/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/E-nMyBL46bQ/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 35,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "E-nMyBL46bQ"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "vymygVzg9XFsnG0ZaIkBQi1oaAc",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Ester || Bible Project Português ||",
+              "description": "Visão Geral: Ester\nAssista o nosso vídeo com a visão geral de Ester que explica o conceito literário do livro e as suas ideias principais. Em Ester, Deus providencialmente usa dois exilados Israelitas para resgatar o Seu povo de uma destruição certa, sem qualquer menção específica de Deus ou das Suas ações.\n\nDevocional\nBibleProject\n\n@BibleProject - Português \n\n#Devocional #Ester #Bíblia #AntigoTestamento #Devocional",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/0ZLyAPhbORU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/0ZLyAPhbORU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/0ZLyAPhbORU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/0ZLyAPhbORU/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/0ZLyAPhbORU/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 36,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0ZLyAPhbORU"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "W82sgBn49Vs1HWhQpgNlFvjN8s0",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+              "publishedAt": "2022-07-08T17:15:13Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Daniel || Bible Project Português ||",
+              "description": "Visão Geral: Daniel\nAssista o nosso vídeo com a visão geral de Daniel que explica o conceito literário do livro e as suas ideias principais. A história de Daniel motiva a fidelidade, apesar do exílio na Babilônia. As suas visões oferecem esperança de que Deus trará todas as nações sob o Seu domínio.\n\nDevocional\n\n@BibleProject - Português #Devocional #Biblia #AntigoTestamento #Daniel",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/pfsmbv0L0bo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/pfsmbv0L0bo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/pfsmbv0L0bo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/pfsmbv0L0bo/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/pfsmbv0L0bo/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 37,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "pfsmbv0L0bo"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "FtoB5JxjH80PWEuI12_jD11QwZc",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Esdras-Neemias || Bible Project Português ||",
+              "description": "Visão Geral: Esdras-Neemias\nAssista o nosso vídeo com a visão geral de Esdras e Neemias que explica o conceito literário do livro e as suas ideias principais. Nos livros de Esdras e Neemias, vários Israelitas regressam a Jerusalém após o exílio, e enfrentam alguns sucessos junto com várias falhas espirituais e morais.\n\nDevocional\nBibleProject\nEsdras\nNeemias\n\n@BibleProject - Português \n\n#Devocional #AntigoTestamento #Esdras #Neemias #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 38,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "TTVEz3s22yE"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "F4WEtc75_SecAPCvcyWzcuWNbwI",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "1-2 Crônicas || Bible Project Português ||",
+              "description": "Visão Geral: 1-2 Crônicas\nAssista o nosso vídeo com a visão geral do Primeiro e Segundo livro das Crônicas que explica o conceito literário do livro e as suas ideias principais. As Crônicas recontam a história completa do Antigo Testamento, destacando a esperança futura do rei messiânico e do templo restaurado.\n\nDevocional\nBibleProject\n1 Cronicas \n2 Cronicas\n\n@BibleProject - Português \n\n#Devocional #AntigoTestamento #Bíblia #1Cronicas #2Cronicas #Bíblia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 39,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1PnrE58L5Fg"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "yBaMMnfXt6zdaG10x_j_K3sV4Us",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+              "publishedAt": "2022-09-20T19:48:59Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Visão Geral: Antigo Testamento/TaNaK",
+              "description": "Você sabia que a ordem dos livros do Antigo Testamento nas Bíblias Cristãs não é original? Assim como todos os anciões judaicos, Jesus encontrou as Escrituras como uma coleção de pergaminhos em três partes conhecidas como a Torá, os Profetas, e os Escritos, ou TaNaK. Neste vídeo vamos explorar porque isso é importante, e o que acontece quando você lê as Escrituras na ordem tradicional Judaica.\n@BibleProject - Português \n\n#LeiaasEscrituras #Biblia #bibleprojectportugues",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 40,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "kzC5e5V0gtA"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          }
+        ],
+        "pageInfo": {
+          "totalResults": 41,
+          "resultsPerPage": 50
+        }
+      }
+      
+          
+    ],
+    "newTestment":[
+        {
+            "kind": "youtube#playlistItemListResponse",
+            "etag": "XgPqYUaLUK17a_RU1Cqs34DwG_8",
+            "items": [
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "FIFONOa6GzndoZEGCPkKnhMnhVo",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41NkI0NEY2RDEwNTU3Q0M2",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Mateus 1-13 || Bible Project Português ||",
+                  "description": "Visão Geral: Mateus 1-13\nAssista o nosso vídeo com a visão geral do evangelho de Mateus dos capítulos 1 a 13, que explica o conceito literário do livro e as suas ideias principais. No evangelho de Mateus, Jesus traz o reino celestial de Deus à terra e convida os seus discípulos a viverem um novo estilo de vida através da sua morte e ressurreição.\n\n @BibleProject - Português \nDevocional diário\n#BibleProject #vídeosdabíblia #Mateus #novotestamento #bibleprojectportugues #evangelhos #leiaasescrituras #devocionaldiario",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/VskOdIySJQI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/VskOdIySJQI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/VskOdIySJQI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/VskOdIySJQI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/VskOdIySJQI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 0,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VskOdIySJQI"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "3UpZl6fHpRsmBAsORkeGq56vkeA",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4yODlGNEE0NkRGMEEzMEQy",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Mateus 14-28 || Bible Project Português ||",
+                  "description": "Visão Geral: Mateus 14-28\nAssista o nosso vídeo com a visão geral do evangelho de Mateus dos capítulos 14 a 28, que explica o conceito literário do livro e as suas ideias principais. No evangelho de Mateus, Jesus traz o reino celestial de Deus à terra e convida os seus discípulos a viverem um novo estilo de vida através da sua morte e ressurreição.\n\n@BibleProject - Português \nDevocional Diario\n\n#BibleProject #vídeosdabíblia #Mateus #novotestamento #evangelhos #bibleprojectportugues #leiaasescrituras #devocional",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/4E-Ju-WKe1k/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/4E-Ju-WKe1k/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/4E-Ju-WKe1k/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/4E-Ju-WKe1k/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/4E-Ju-WKe1k/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 1,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4E-Ju-WKe1k"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "U2IU1k7lHVfRlo38pvsCcsCZXXo",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4wMTcyMDhGQUE4NTIzM0Y5",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Marcos || Bible Project Português ||",
+                  "description": "Visão Geral: Marcos\nAssista o nosso vídeo com a visão geral do evangelho de Marcos explicando o conceito literário do livro e as suas ideias principais. O evangelho de Marcos, mostra que Jesus é o Messias de Israel inaugurando o reino de Deus através do Seu sofrimento, morte e ressurreição.\n\n@BibleProject - Português \nDevocional\n #BibleProject #vídeosdabíblia #Marcos #bibleprojectportugues #evangelhos #leiaasescrituras #devocional",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/EOT1Mo_YERM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/EOT1Mo_YERM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/EOT1Mo_YERM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/EOT1Mo_YERM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/EOT1Mo_YERM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 2,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EOT1Mo_YERM"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "zxVDer416pk1e9iQZ7GFg77DtfA",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4xMkVGQjNCMUM1N0RFNEUx",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "João 1-12 || Bible Project Brasil ||",
+                  "description": "Visão Geral: João 1-12\nAssista o nosso vídeo com a visão geral do evangelho de João dos capítulos 1 a 12, que explica o conceito literário do livro e as suas ideias principais. No evangelho de João, Jesus torna-se humano, encarnando Deus o criador de Israel, e anunciando o Seu amor e o presente de vida eterna para o mundo inteiro.\n\n@BibleProject - Português \nDevocional\n\n #BibleProject #vídeosdabíblia #João #leiaasescrituras #novotestamento #bibleprojectbrasil\n#devocional",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/x2Q23ddS1TM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/x2Q23ddS1TM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/x2Q23ddS1TM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/x2Q23ddS1TM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/x2Q23ddS1TM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 3,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x2Q23ddS1TM"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "bIU7ZcCrfo7i6bzKd553XQ8yAzE",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41MzJCQjBCNDIyRkJDN0VD",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "João 13-21 || Bible Project Português ||",
+                  "description": "Visão Geral: João 13-21\nAssista o nosso vídeo com a visão geral do evangelho de João dos capítulos 13 a 21, que explica o conceito literário do livro e as suas ideias principais. No evangelho de João, Jesus torna-se humano, encarnando Deus o criador de Israel, e anunciando o Seu amor e o presente de vida eterna para o mundo inteiro.\n\n@BibleProject - Português \nDevocional\n\n #BibleProject #vídeosdabíblia #João #bibleprojectbrasil #evangelhos #leiaasescrituras #devocional #bibleprojectportugues",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/bKIiCTvr8CA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/bKIiCTvr8CA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/bKIiCTvr8CA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/bKIiCTvr8CA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/bKIiCTvr8CA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 4,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bKIiCTvr8CA"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "K-ynT0OXoAXJ58wvSdGbPSIH8Gs",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41MjE1MkI0OTQ2QzJGNzNG",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Lucas 1-9 || Bible Project Português ||",
+                  "description": "Visão Geral: Lucas 1-9\nAssista o nosso vídeo com a visão geral do evangelho de Lucas dos capítulos 1 a 9, que explica o conceito literário do livro e as suas ideias principais. No evangelho de Lucas, Jesus completa a história da aliança entre Deus e Israel e anuncia as boas novas do reino de Deus tanto para os pobres como para os ricos.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Lucas #leiaasescrituras #bibleprojectportugues #novotestamento",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/ubXUcaXu8bQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/ubXUcaXu8bQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/ubXUcaXu8bQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/ubXUcaXu8bQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/ubXUcaXu8bQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 5,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ubXUcaXu8bQ"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "gARFjKV_T1dOeYpMXgGjtpjiodY",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4wOTA3OTZBNzVEMTUzOTMy",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Lucas 10-24 || Bible Project Português ||",
+                  "description": "Visão Geral: Lucas 10-24\nAssista o nosso vídeo com a visão geral do evangelho de Lucas dos capítulos 10 a 24, que explica o conceito literário do livro e as suas ideias principais. No evangelho de Lucas, Jesus completa a história da aliança entre Deus e Israel e anuncia as boas novas do reino de Deus tanto para os pobres como para os ricos.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Lucas #leiaasescrituras #evangelhos #bibleprojectportugues #devocional #novotestamento",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/UeUAAAs7hec/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/UeUAAAs7hec/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/UeUAAAs7hec/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/UeUAAAs7hec/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/UeUAAAs7hec/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 6,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UeUAAAs7hec"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "8FaCsz1aLmQLqUsvhL-iySmEYaU",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5GNjNDRDREMDQxOThCMDQ2",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Atos 1-12  || Bible Project Português ||",
+                  "description": "Visão Geral: Atos 1-12\nAssista o nosso vídeo com a visão geral de Atos 1 a 12, que explica o conceito literário do livro e as suas ideias principais. No livro de Atos, Jesus envia o Espírito Santo para capacitar os discípulos na tarefa de partilhar as boas novas do reino entre as nações do mundo inteiro.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Atos #leiaasescrituras #novotestamento #BibleProjectBrasil",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/9HdS25PV9JQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/9HdS25PV9JQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/9HdS25PV9JQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/9HdS25PV9JQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/9HdS25PV9JQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 7,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9HdS25PV9JQ"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "A3ALjsu1m0iTwdEKWanRkZtxYHc",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC40NzZCMERDMjVEN0RFRThB",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Atos 13-28 || Bible Project Português ||",
+                  "description": "Visão Geral: Atos 13-28\nAssista o nosso vídeo com a visão geral de Atos 13 a 28, que explica o conceito literário do livro e as suas ideias principais. No livros de Atos, Jesus envia o Espírito Santo para capacitar os discípulos na tarefa de partilhar as boas novas do reino nas nações do mundo inteiro.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Atos #NovoTestamento #Bíblia",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/29q6CEle764/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/29q6CEle764/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/29q6CEle764/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/29q6CEle764/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/29q6CEle764/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 8,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "29q6CEle764"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "OZv2Jmv5K0qd_FVsEZi6BcR5yDY",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DQUNERDQ2NkIzRUQxNTY1",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Romanos 1-4 || Bible Project Português ||",
+                  "description": "Visão Geral: Romanos 1-4\nAssista o nosso vídeo com a visão geral da carta aos Romanos, capítulos 1 a 4, que explica o conceito literário do livro e as suas ideias principais. Na carta aos Romanos, Paulo mostra como Jesus criou a nova família da aliança com Abraão através da sua morte e ressurreição, e através do envio do Espírito Santo.\n\n@BibleProject - Português \nDevocional\n\n#romanos #novotestamento #BibleProject #leiaasescrituras #devocional #bibleprojectportugues",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/uGLbrGF1JJk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/uGLbrGF1JJk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/uGLbrGF1JJk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/uGLbrGF1JJk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/uGLbrGF1JJk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 9,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uGLbrGF1JJk"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "euUa0WEr-sU2GrlHonz9w-dLvSQ",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC45NDk1REZENzhEMzU5MDQz",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Romanos 5-16 || Bible Project Português ||",
+                  "description": "Visão Geral: Romanos 5-16\nAssista o nosso vídeo com a visão geral da carta aos Romanos, capítulos 5 a 16, que explica o conceito literário do livro e as suas ideias principais. Na carta aos Romanos, Paulo mostra como Jesus criou a nova família da aliança com Abraão através da sua morte e ressurreição, e através do envio do Espírito Santo.\n\n@BibleProject - Português \nDevocional\n\n#Romanos #BibleProject #bibleprojectportugues #leiaasescrituras #novotestamento",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/w5rkwQb3cFM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/w5rkwQb3cFM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/w5rkwQb3cFM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/w5rkwQb3cFM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/w5rkwQb3cFM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 10,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w5rkwQb3cFM"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "4OE9fhJa4N196V_7z4UKesRtc_M",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5EMEEwRUY5M0RDRTU3NDJC",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1 Coríntios || Bible Project Português ||",
+                  "description": "Visão Geral: 1 Coríntios\nAssista o nosso vídeo com a visão geral da carta de 1ᵒ Coríntios, que explica o conceito literário do livro e as suas ideias principais. Em 1ᵒ Coríntios, Paulo mostra aos novos cristãos de Corinto que até os problemas mais complexos da nossa vida podem ser abordados através da lente do evangelho.\n\n@BibleProject - Português \nDevocional\n1 Corintios\n\n#BibleProject #vídeosdabíblia #1Coríntios #leiaasescrituras #novotestamento",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/XVVM-AP3IB0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/XVVM-AP3IB0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/XVVM-AP3IB0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/XVVM-AP3IB0/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/XVVM-AP3IB0/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 11,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XVVM-AP3IB0"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "ZDQtGz6ICbXHUFoO-_ge6PnflqI",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC45ODRDNTg0QjA4NkFBNkQy",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "2 Coríntios || Bible Project Português ||",
+                  "description": "Visão Geral: 2 Coríntios\nAssista o nosso vídeo com a visão geral da carta de 2ᵒ Coríntios, que explica o conceito literário do livro e as suas ideias principais. Em 2ᵒ Coríntios, Paulo resolve o seu conflito com os Corintos mostrando como o escândalo da crucificação de Jesus vira o nosso sistema de valores de ponta cabeça.\n\n@BibleProject - Português \nDevocional\n\n#BIbleProject #vídeosdabíblia #2Coríntios #novotestamento #leiaasescrituras #devocional",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/BgFBb0uAuLY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/BgFBb0uAuLY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/BgFBb0uAuLY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/BgFBb0uAuLY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/BgFBb0uAuLY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 12,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BgFBb0uAuLY"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "SCAKt5tQHUdAKmtfmOOZaqGPe3s",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4zMDg5MkQ5MEVDMEM1NTg2",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Gálatas || Bible Project Português ||",
+                  "description": "Visão Geral: Gálatas\nAssista o nosso vídeo com a visão geral da carta aos Gálatas, que explica o conceito literário do livro e as suas ideias principais. Na carta aos Gálatas, Paulo desafia os Cristãos daquela região a não permitirem que observações controvérsias da Torá continuem dividindo aquela igreja.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Gálatas #novotestamento #leiaasescrituras #Devocional #Galatas",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/UdP2LsHsAyY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/UdP2LsHsAyY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/UdP2LsHsAyY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/UdP2LsHsAyY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/UdP2LsHsAyY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 13,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UdP2LsHsAyY"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "61ipjurDESTFKSTOyIO-TGiGAfQ",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41Mzk2QTAxMTkzNDk4MDhF",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Efésios || Bible Project Português ||",
+                  "description": "Visão Geral: Efésios\nAssista o nosso vídeo com a visão geral da carta aos Efésios, que explica o conceito literário do livro e as suas ideias principais. Na carta aos Efésios, Paulo mostra como as boas novas devem criar comunidades étnicas diversas unidas por uma devoção a Jesus e uns aos outros.\n\n@BibleProject - Português \nDevocional\nEfesios\n\n#BibleProject #vídeosdabíblia #Efésios #BibleProjectBrasil #novotestamento #bibleprojectportugues #leiaasescrituras",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/HgQeAMIJZ8Q/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/HgQeAMIJZ8Q/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/HgQeAMIJZ8Q/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/HgQeAMIJZ8Q/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/HgQeAMIJZ8Q/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 14,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HgQeAMIJZ8Q"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "h5uM5MxGniIyTEv1QC0Ypwgtm2M",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5EQUE1NTFDRjcwMDg0NEMz",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Filipenses || Bible Project Português ||",
+                  "description": "Visão Geral: Filipenses\nAssista o nosso vídeo com a visão geral da carta aos Filipenses, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo agradece os Cristãos Filipenses pela sua generosidade e partilha como eles são chamados a imitar o amor generoso de Jesus.\n\n@BibleProject - Português \nDevocional\nFilipenses\n\n#BIbleProject #vídeosdabíblia #Filipenses #novotestamento #BibleProjectBrasil",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/OtJkruVf4b0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/OtJkruVf4b0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/OtJkruVf4b0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/OtJkruVf4b0/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/OtJkruVf4b0/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 15,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OtJkruVf4b0"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Bud6ejXZmGBIY6dXav_CbRhQ-wA",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC41QTY1Q0UxMTVCODczNThE",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Colossenses || Bible Project Português ||",
+                  "description": "Visão Geral: Colossenses\nAssista o nosso vídeo com a visão geral da carta aos Colossenses, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo encoraja os Cristãos de Colossos a verem Jesus como o centro de tudo aquilo que existe, para que eles não cedam às pressões de outras religiões.\n\n@BibleProject - Português \nDevocional\nColossenses\n\n#BIbleProject #vídeosdabíblia #Colossenses #Colossenses #NovoTestamento",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/25udRufsBzE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/25udRufsBzE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/25udRufsBzE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/25udRufsBzE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/25udRufsBzE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 16,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "25udRufsBzE"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Z9rhkoSd7DcJsKkeNR6Jsdsy0fo",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4yMUQyQTQzMjRDNzMyQTMy",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1 Tessalonicenses || Bible Project Português ||",
+                  "description": "Visão Geral:1 Tessalonicenses\nAssista o nosso vídeo com a visão geral da Primeira carta aos Tessalonicenses, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo direciona a igreja perseguida de Tessalônica à esperança futura do retorno do rei Jesus que fará tudo certo.\n\n@BibleProject - Português \nDevocional\n1 Tessalonicenses\n\n#BIbleProject #vídeosdabíblia #1Tessalonicenses #NovoTestamento #LeiaasEscrituras #BibleProjectBrasil",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/HEjuHQagEfY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/HEjuHQagEfY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/HEjuHQagEfY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/HEjuHQagEfY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/HEjuHQagEfY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 17,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HEjuHQagEfY"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "a-ZgmzjXIUj3HzJV_1AByUsULgg",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC45RTgxNDRBMzUwRjQ0MDhC",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "2 Tessalonicenses || Bible Project Português ||",
+                  "description": "Visão Geral: 2 Tessalonicenses\nAssista o nosso vídeo com a visão geral da Segunda carta aos Tessalonicenses, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo esclarece os seu ensinamentos anteriores sobre o futuro retorno de Jesus e repreende os Cristãos que estavam criando confusão na comunidade.\n\nDevocional\n2Tessalonicenses\n\n@BibleProject - Português \n\n#BIbleProject #vídeosdabíblia #2Tessalonicenses #NovoTestamento #LeiaasEscrituras",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/rxaPUrNzCTQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/rxaPUrNzCTQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/rxaPUrNzCTQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/rxaPUrNzCTQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/rxaPUrNzCTQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 18,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rxaPUrNzCTQ"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "8K-iDj5DJC2WowqJyLtE9Pq-D74",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5ENDU4Q0M4RDExNzM1Mjcy",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1 Timóteo || Bible Project Português ||",
+                  "description": "Visão Geral: 1 Timóteo\nAssista o nosso vídeo com a visão geral da Primeira carta a Timóteo, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo mostra a Timóteo como estabelecer ordem e propósito na igreja em Éfesos a qual tem sido corrompida pelos mestres falsos.\n\nDevocional\n1Timoteo\n\n@BibleProject - Português \n\n#BibleProject #vídeosdabíblia #1Timothy #1Timóteo #NovoTestamento #LeiaasEscrituras",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/EK43-lXnV50/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/EK43-lXnV50/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/EK43-lXnV50/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/EK43-lXnV50/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/EK43-lXnV50/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 19,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EK43-lXnV50"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "xIdXhgCgccSjLhqGhDDBQaQcN30",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4yMDhBMkNBNjRDMjQxQTg1",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "2 Timóteo || Bible Project Português ||",
+                  "description": "Visão Geral: 2 Timóteo\nAssista o nosso vídeo com a visão geral da Segunda carta a Timóteo, que explica o conceito literário do livro e as suas ideias principais. Nessa carta, Paulo está prestes a enfrentar a sua morte, e oferece um desafio pessoal a Timóteo para que ele continue seguindo Jesus independentemente dos sacrifícios e riscos.\n\n@BibleProject - Português \nDevocional\n2 Timoteo\n\n#BIbleProject #vídeosdabíblia #2Timothy #BibleProjectPortugues #NovoTestamento #LeiaasEscrituras #2Timóteo #LeiaaBiblia",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/AxTyLu521XU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/AxTyLu521XU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/AxTyLu521XU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/AxTyLu521XU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/AxTyLu521XU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 20,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AxTyLu521XU"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Ln_ewJV4dAoSOTfbexOa162USZg",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5GM0Q3M0MzMzY5NTJFNTdE",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Tito || Bible Project Português ||",
+                  "description": "Visão Geral: Tito\nAssista o nosso vídeo com a visão geral de Tito, que explica o conceito literário do livro e as suas ideias principais. Paulo instrui que Tito deve mostrar como as boas novas de Jesus e o poder do Espírito podem transformar a cultura Creta de dentro para fora.\n\n@BibleProject - Português \nDevocional\nTito\n\n#BIbleProject #vídeosdabíblia #Titus #Tito #NovoTestamento #LeiaasEscrituras #BibleProjectPortugues",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/7I-QWYLUG6A/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/7I-QWYLUG6A/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/7I-QWYLUG6A/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/7I-QWYLUG6A/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/7I-QWYLUG6A/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 21,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7I-QWYLUG6A"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Mcir0DjbwaDDgz9gEU7jmA_56b0",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4zRjM0MkVCRTg0MkYyQTM0",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Filemom || Bible Project Português ||",
+                  "description": "Visão Geral: Filemom\nAssista o nosso vídeo com a visão geral de Filemom, que explica o conceito literário do livro e as suas ideias principais. Paulo ajuda o seu amigo Filemom reconciliar com Onésimo, o seu ex-escravo que escapou, e mostra que eles são iguais por causa de Jesus. \n\n#BibleProject #vídeosdabíblia #Filemom #BibleProjectPortugues #NovoTestamento #LeiaasEscrituras",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/JDLfv0-e6oI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/JDLfv0-e6oI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/JDLfv0-e6oI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/JDLfv0-e6oI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/JDLfv0-e6oI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 22,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JDLfv0-e6oI"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Kz6Q0rgGZBTRdvGUtoW7ESfYs80",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC45NzUwQkI1M0UxNThBMkU0",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Hebreus || Bible Project Português ||",
+                  "description": "Visão Geral: Hebreus\nAssista o nosso vídeo com a visão geral de Hebreus, que explica o conceito literário do livro e as suas ideias principais. No livro de Hebreus, o autor mostra que Jesus é a revelação final do amor e misericórdia de Deus e merece a nossa devoção.\n\n@BibleProject - Português \nDevocional\n\n#BibleProject #vídeosdabíblia #Hebreus #NovoTestamento #LeiaasEscrituras #BibleProjectPortugues #Devocional",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/yt4uHfHfixY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/yt4uHfHfixY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/yt4uHfHfixY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/yt4uHfHfixY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/yt4uHfHfixY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 23,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yt4uHfHfixY"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "LE0YwzE5RLnocfhFeNBT_7IQ7_4",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC43MTI1NDIwOTMwQjIxMzNG",
+                "snippet": {
+                  "publishedAt": "2022-07-08T17:22:06Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Tiago || Bible Project Português ||",
+                  "description": "Visão Geral: Tiago\nAssista o nosso vídeo com a visão geral de Tiago, que explica o conceito literário do livro e as suas ideias principais. Tiago une a sabedoria do seu irmão Jesus ao livro de Provérbios na sua própria chamada desafiadora de viver uma vida completamente devota a Deus.\n\n@BibleProject - Português \nDevocional \n\n#Tiago #NovoTestamento #LeiaasEscrituras #Devocional #BibleProjectPortugues",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/jkMUhg4pqSk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/jkMUhg4pqSk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/jkMUhg4pqSk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/jkMUhg4pqSk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/jkMUhg4pqSk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 24,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jkMUhg4pqSk"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "Q7FKMKg9eY4gQydZHdXf804s2gc",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DMkU4NTY1QUFGQTYwMDE3",
+                "snippet": {
+                  "publishedAt": "2022-07-08T17:23:46Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1 Pedro || Bible Project Português ||",
+                  "description": "Visão Geral: 1 Pedro\nAssista o nosso vídeo com a visão geral da Primeira carta de Pedro, que explica o conceito literário do livro e as suas ideias principais. Pedro oferece esperança aos Cristãos perseguidos e ajuda-os com instruções práticas de como viver uma vida consistente com seguir Jesus.\n\n@BibleProject - Português \nDevocional\n\n#NovoTestamento #LeiaasEscrituras #1Pedro #Bíblia #DevocionalDiario",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/ckVR3YJUTXY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/ckVR3YJUTXY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/ckVR3YJUTXY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/ckVR3YJUTXY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/ckVR3YJUTXY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 25,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ckVR3YJUTXY"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "XJOCFDcG64WKOD5scvc3EOHySuc",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC44Mjc5REFBRUE2MTdFRDU0",
+                "snippet": {
+                  "publishedAt": "2022-07-08T17:23:58Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "2 Pedro || Bible Project Português ||",
+                  "description": "Visão Geral: 2 Pedro\nAssista o nosso vídeo com a visão geral da Segunda carta de Pedro, que explica o conceito literário do livro e as suas ideias principais. Pedro pede fidelidade e confronta os mestres corruptos que distorcem a mensagem de Jesus e desviam outras pessoas.\n\n@BibleProject - Português \nDevocional\n\n#bibleprojectportugues #novotestamento #leiaasescrituras #bibleproject #2Pedro #DevocionalDiario #LeiaaBiblia",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/hipwXlqhTNM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/hipwXlqhTNM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/hipwXlqhTNM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/hipwXlqhTNM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/hipwXlqhTNM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 26,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hipwXlqhTNM"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "1-gYYj9f3ilAarxI9nIyRQBBD80",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DNzE1RjZEMUZCMjA0RDBB",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1-3 João || Bible Project Português ||",
+                  "description": "Visão Geral: 1-3 João\nAssista o nosso vídeo com a visão geral das cartas 1, 2 e 3 de João, que explica o conceito literário do livro e as suas ideias principais. João pede os seguidores de Jesus a compartilharem na própria vida e amor de Deus dedicando-se a amarem uns aos outros.\n\n@BibleProject - Português \nDevocional\n\n\n#BibleProject #vídeosdabíblia #I II III João #BibleProjectPortugues #NovoTestamento #LeiaasEscrituras",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 27,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vKZ-RGmZs-8"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "oUDOdI-zANbeKXxH0iHIRm5-fCw",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+                "snippet": {
+                  "publishedAt": "2022-07-08T17:22:31Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Apocalipse 1-11 || Bible Project Português ||",
+                  "description": "Visão Geral: Apocalipse 1-11\nAssista o nosso vídeo com a visão geral de Apocalipse, dos capítulos 1 a 11 que explica o conceito literário do livro e as suas ideias principais. Em Apocalipse, as visões de João revelam que Jesus venceu o mal através da sua morte e ressurreição, e um dia irá regressar como o verdadeiro rei do mundo.\n\n@BibleProject - Português\nDevocional\n\n#BibleProject #vídeosdabíblia #Revelation #novotestamento #leiaasescrituras #Apocalipse #DevocionalDiario #leiaabiblia #bibleprojectportugues",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/BLQEAe9VDUQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/BLQEAe9VDUQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/BLQEAe9VDUQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/BLQEAe9VDUQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/BLQEAe9VDUQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 28,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BLQEAe9VDUQ"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "ZiJWhsZVaKxVQL6Ktszi1KcqyTo",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC4yQUE2Q0JEMTk4NTM3RTZC",
+                "snippet": {
+                  "publishedAt": "2022-07-08T17:22:45Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Apocalipse 12-22 || Bible Project Português ||",
+                  "description": "Visão Geral: Apocalipse 12-22\nAssista o nosso vídeo com a visão geral de Apocalipse, dos capítulos 12 a 22 que explica o conceito literário do livro e as suas ideias principais. Em Apocalipse, as visões de João revelam que Jesus venceu o mal através da sua morte e ressurreição, e um dia irá regressar como o verdadeiro rei do mundo.\n\n@BibleProject - Português \nDevocional\n\n#BibleProjectPortugues #novotestamento #apocalipse #novotestamento #leiaabiblia #bibleproject",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/eizPQBawrsU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/eizPQBawrsU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/eizPQBawrsU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/eizPQBawrsU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/eizPQBawrsU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 29,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eizPQBawrsU"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "sLPv4Z5YVq3UQNoNqtkEZvwNYFc",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC43NDhFRTgwOTRERTU4Rjg3",
+                "snippet": {
+                  "publishedAt": "2022-09-20T20:10:09Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "Private video",
+                  "description": "This video is private.",
+                  "thumbnails": {},
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 30,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eQF_lAnjCTA"
+                  }
+                }
+              }
+            ],
+            "pageInfo": {
+              "totalResults": 31,
+              "resultsPerPage": 50
+            }
+          }
+          
+    ]  
+}

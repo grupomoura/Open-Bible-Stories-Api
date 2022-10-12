@@ -3,6 +3,19 @@ const app = express()
 const port = process.env.PORT || 3000
 
 const stories = require("./src/stories/stories.json")
+const videoStories = require("./src/stories/videoStories.json")
+
+app.get("/videostories", (req,res) => {
+    return res.json(videoStories)
+})
+
+app.get("/videostories/oldTestment", (req,res) => {
+    return res.json(videoStories.oldTestment)
+})
+
+app.get("/videostories/newTestment", (req,res) => {
+    return res.json(videoStories.newTestment)
+})
 
 app.get("/stories", (req,res) => {
     return res.json(stories)
