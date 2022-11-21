@@ -35,7 +35,7 @@ app.get("/sinopsesOverview/oldTestment/gen", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][1])
 })
 app.get("/sinopsesOverview/oldTestment/exo", (req,res) => {
-    return res.json(sinopsesOverview.sinopsesOverview[2][1])
+    return res.json(sinopsesOverview.sinopsesOverview[1][2])
 })
 app.get("/sinopsesOverview/oldTestment/lev", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][3])
