@@ -4,6 +4,7 @@ const port = process.env.PORT || 3000
 
 const stories = require("./src/stories/stories.json")
 const videoStories = require("./src/stories/videoStories.json")
+const sinopsesOverview = require("./src/stories/sinopsesOverview.json")
 
 app.get("/videostories", (req,res) => {
     return res.json(videoStories)
