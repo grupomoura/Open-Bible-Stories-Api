@@ -18,7 +18,7 @@ app.get("/videostories/newTestment", (req,res) => {
 })
 
 app.get("/sinopsesOverview", (req,res) => {
-    return res.json(sinopsesOverview.theBook)
+    return res.json(sinopsesOverview)
 })
 
 app.get("/sinopsesOverview/theBook", (req,res) => {
