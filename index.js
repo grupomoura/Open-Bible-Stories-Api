@@ -17,6 +17,10 @@ app.get("/videostories/newTestment", (req,res) => {
     return res.json(videoStories.newTestment)
 })
 
+app.get("/sinopsesOverview", (req,res) => {
+    return res.json(sinopsesOverview.theBook)
+})
+
 app.get("/sinopsesOverview/theBook", (req,res) => {
     return res.json(sinopsesOverview.theBook)
 })
