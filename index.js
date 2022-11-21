@@ -23,15 +23,15 @@ app.get("/sinopsesOverview", (req,res) => {
 })
 
 app.get("/sinopsesOverview/theBook", (req,res) => {
-    return res.json(sinopsesOverview.sinopsesOverview.theBook)
+    return res.json(sinopsesOverview.sinopsesOverview[0])
 })
 
 app.get("/sinopsesOverview/oldTestment", (req,res) => {
-    return res.json(sinopsesOverview.sinopsesOverview.oldTestment)
+    return res.json(sinopsesOverview.sinopsesOverview[1])
 })
 
 app.get("/sinopsesOverview/newTestment", (req,res) => {
-    return res.json(sinopsesOverview.sinopsesOverview.newTestment)
+    return res.json(sinopsesOverview.sinopsesOverview[2])
 })
 
 app.get("/stories", (req,res) => {
