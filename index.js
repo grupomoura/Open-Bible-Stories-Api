@@ -121,29 +121,32 @@ app.get("/sinopsesOverview/oldTestment/jol", (req,res) => {
 app.get("/sinopsesOverview/oldTestment/amo", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][30])
 })
-app.get("/sinopsesOverview/oldTestment/jon", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/oba", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][31])
 })
-app.get("/sinopsesOverview/oldTestment/mic", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/jon", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][32])
 })
-app.get("/sinopsesOverview/oldTestment/nam", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/mic", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][33])
 })
-app.get("/sinopsesOverview/oldTestment/hab", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/nam", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][34])
 })
-app.get("/sinopsesOverview/oldTestment/zep", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/hab", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][35])
 })
-app.get("/sinopsesOverview/oldTestment/hag", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/zep", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][36])
 })
-app.get("/sinopsesOverview/oldTestment/zec", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/hag", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][37])
 })
-app.get("/sinopsesOverview/oldTestment/mal", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/zec", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][38])
+})
+app.get("/sinopsesOverview/oldTestment/mal", (req,res) => {
+    return res.json(sinopsesOverview.sinopsesOverview[1][39])
 })
 
 
