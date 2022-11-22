@@ -524,6 +524,53 @@
             "snippet": {
               "publishedAt": "2021-03-29T20:51:07Z",
               "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "1 Reis",
+              "description": "Visão Geral: 1-2 Reis\nVisão geral do Primeiro e Segundo livro de Reis que explica o conceito literário do livro e as suas ideias principais. Em Primeiro e Segundo Reis, o filho de Davi, Salomão, lidera Israel à grandeza, apenas para fracassar e levar Israel a uma guerra civil e, finalmente, à destruição e ao exílio.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/6R5wFQWFDL4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 11,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6R5wFQWFDL4"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "dCx8F88_e_xsjTmHUmB_XAPF4Kc",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
               "title": "2 Reis",
               "description": "Visão Geral: 1-2 Reis\nVisão geral do Primeiro e Segundo livro de Reis que explica o conceito literário do livro e as suas ideias principais. Em Primeiro e Segundo Reis, o filho de Davi, Salomão, lidera Israel à grandeza, apenas para fracassar e levar Israel a uma guerra civil e, finalmente, à destruição e ao exílio.",
               "thumbnails": {
@@ -1511,7 +1558,7 @@
             "snippet": {
               "publishedAt": "2021-03-29T20:51:41Z",
               "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
-              "title": "Cântico > dos Cânticos",
+              "title": "Cântico dos Cânticos",
               "description": "Visão Geral: Cântico dos Cânticos\nVisão geral do Cântico dos Cânticos que explica o conceito literário do livro e as suas ideias principais. O Cântico dos Cânticos é uma coleção de antigos poemas de amor Israelita que celebra a beleza e poder do dom de Deus no amor e desejo sexual.",
               "thumbnails": {
                 "default": {
@@ -1793,7 +1840,7 @@
             "snippet": {
               "publishedAt": "2021-03-29T20:51:07Z",
               "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
-              "title": "Esdras >-Neemias",
+              "title": "Esdras",
               "description": "Visão Geral: Esdras-Neemias\nVisão geral de Esdras e Neemias que explica o conceito literário do livro e as suas ideias principais. Nos livros de Esdras e Neemias, vários Israelitas regressam a Jerusalém após o exílio, e enfrentam alguns sucessos junto com várias falhas espirituais e morais.",
               "thumbnails": {
                 "default": {
@@ -1828,6 +1875,100 @@
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "TTVEz3s22yE"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "FtoB5JxjH80PWEuI12_jD11QwZc",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "Neemias",
+              "description": "Visão Geral: Esdras-Neemias\nVisão geral de Esdras e Neemias que explica o conceito literário do livro e as suas ideias principais. Nos livros de Esdras e Neemias, vários Israelitas regressam a Jerusalém após o exílio, e enfrentam alguns sucessos junto com várias falhas espirituais e morais.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/TTVEz3s22yE/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 38,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "TTVEz3s22yE"
+              },
+              "videoOwnerChannelTitle": "BibleProject - Português",
+              "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "F4WEtc75_SecAPCvcyWzcuWNbwI",
+            "id": "UExzRHBVUEpUVWNYRWh3NnJDWkY3RVpEYXBUaHI2bzBLUC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+              "publishedAt": "2021-03-29T20:51:07Z",
+              "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+              "title": "1 Crônicas",
+              "description": "Visão Geral: 1-2 Crônicas\nVisão geral do Primeiro e Segundo livro das Crônicas que explica o conceito literário do livro e as suas ideias principais. As Crônicas recontam a história completa do Antigo Testamento, destacando a esperança futura do rei messiânico e do templo restaurado.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/1PnrE58L5Fg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "BibleProject - Português",
+              "playlistId": "PLsDpUPJTUcXEhw6rCZF7EZDapThr6o0KP",
+              "position": 39,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1PnrE58L5Fg"
               },
               "videoOwnerChannelTitle": "BibleProject - Português",
               "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
@@ -1887,7 +2028,7 @@
             "snippet": {
               "publishedAt": "2022-09-20T19:48:59Z",
               "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
-              "title": "Visão > Geral: Antigo Testamento/TaNaK",
+              "title": "Visão Geral: Antigo Testamento/TaNaK",
               "description": "Você sabia que a ordem dos livros do Antigo Testamento nas Bíblias Cristãs não é original? Assim como todos os anciões judaicos, Jesus encontrou as Escrituras como uma coleção de pergaminhos em três partes conhecidas como a Torá, os Profetas, e os Escritos, ou TaNaK. Neste vídeo vamos explorar porque isso é importante, e o que acontece quando você lê as Escrituras na ordem tradicional Judaica.",
               "thumbnails": {
                 "default": {
@@ -3195,6 +3336,100 @@
                   "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hipwXlqhTNM"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "1-gYYj9f3ilAarxI9nIyRQBBD80",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DNzE1RjZEMUZCMjA0RDBB",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "1 João",
+                  "description": "Visão Geral: 1-3 João\nVisão geral das cartas 1, 2 e 3 de João, que explica o conceito literário do livro e as suas ideias principais. João pede os seguidores de Jesus a compartilharem na própria vida e amor de Deus dedicando-se a amarem uns aos outros.",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 27,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vKZ-RGmZs-8"
+                  },
+                  "videoOwnerChannelTitle": "BibleProject - Português",
+                  "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
+                }
+              },
+              {
+                "kind": "youtube#playlistItem",
+                "etag": "1-gYYj9f3ilAarxI9nIyRQBBD80",
+                "id": "UExzRHBVUEpUVWNYR28tZlVwRFNyV1B5T1dOVU1uR05PVC5DNzE1RjZEMUZCMjA0RDBB",
+                "snippet": {
+                  "publishedAt": "2020-05-18T19:36:17Z",
+                  "channelId": "UCRyMEBm9qrb4vEdJOPhRd1w",
+                  "title": "2 João",
+                  "description": "Visão Geral: 1-3 João\nVisão geral das cartas 1, 2 e 3 de João, que explica o conceito literário do livro e as suas ideias principais. João pede os seguidores de Jesus a compartilharem na própria vida e amor de Deus dedicando-se a amarem uns aos outros.",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/vKZ-RGmZs-8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "BibleProject - Português",
+                  "playlistId": "PLsDpUPJTUcXGo-fUpDSrWPyOWNUMnGNOT",
+                  "position": 27,
+                  "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vKZ-RGmZs-8"
                   },
                   "videoOwnerChannelTitle": "BibleProject - Português",
                   "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
