@@ -1,0 +1,1 @@
+{"id":"9f7c8f99-2e09-4829-a889-3efc1e58fcc8","space":41116,"runtime":"nodejs14.x","name":"detaBiblesApi","path":"7v4xuh","project":"e08kx4uf","account":"144798365827","region":"sa-east-1","deps":["express@^4.18.2"],"envs":null,"public":true,"log_level":"off","cron":""}
