@@ -129,7 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 src/stories/stories copy 2.txt
-src/stories/stories copy 2.txt
-src/stories/stories copy 2.txt
 deta.txt
 deta.js
