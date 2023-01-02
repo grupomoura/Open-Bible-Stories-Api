@@ -2032,27 +2032,27 @@
               "description": "Você sabia que a ordem dos livros do Antigo Testamento nas Bíblias Cristãs não é original? Assim como todos os anciões judaicos, Jesus encontrou as Escrituras como uma coleção de pergaminhos em três partes conhecidas como a Torá, os Profetas, e os Escritos, ou TaNaK. Neste vídeo vamos explorar porque isso é importante, e o que acontece quando você lê as Escrituras na ordem tradicional Judaica.",
               "thumbnails": {
                 "default": {
-                  "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/default.jpg",
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/default.jpg",
                   "width": 120,
                   "height": 90
                 },
                 "medium": {
-                  "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/mqdefault.jpg",
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/mqdefault.jpg",
                   "width": 320,
                   "height": 180
                 },
                 "high": {
-                  "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/hqdefault.jpg",
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/hqdefault.jpg",
                   "width": 480,
                   "height": 360
                 },
                 "standard": {
-                  "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/sddefault.jpg",
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/sddefault.jpg",
                   "width": 640,
                   "height": 480
                 },
                 "maxres": {
-                  "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/maxresdefault.jpg",
+                  "url": "https://i.ytimg.com/vi/kzC5e5V0gtA/maxresdefault.jpg",
                   "width": 1280,
                   "height": 720
                 }
@@ -2062,7 +2062,7 @@
               "position": 40,
               "resourceId": {
                 "kind": "youtube#video",
-                "videoId": "eQF_lAnjCTA"
+                "videoId": "kzC5e5V0gtA"
               },
               "videoOwnerChannelTitle": "BibleProject - Português",
               "videoOwnerChannelId": "UCRyMEBm9qrb4vEdJOPhRd1w"
@@ -3584,7 +3584,7 @@
                   "publishedAt": "2022-09-20T19:48:59Z",
                   "bookId": "VGN",
                   "title": "Visão Geral: Novo Testamento",
-                  "description": "Esse vídeo explica o conceito literário de todo o Novo Testamento.",
+                  "description": "Este vídeo explica o conceito literário de todo o Novo Testamento.",
                   "thumbnails": {
                     "default": {
                       "url": "https://i.ytimg.com/vi/eQF_lAnjCTA/default.jpg",

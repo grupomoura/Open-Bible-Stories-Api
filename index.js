@@ -3,21 +3,36 @@ const app = express()
 const port = process.env.PORT || 3000
 
 const stories = require("./src/stories/stories.json")
-const videoStories = require("./src/stories/videoStories.json")
+const videosOverview = require("./src/stories/videosOverview.json")
 const sinopsesOverview = require("./src/stories/sinopsesOverview.json")
 
-app.get("/videostories", (req,res) => {
-    return res.json(videoStories)
+//API Old version videoOverview
+app.get("/videoStories", (req,res) => {
+    return res.json(videosOverview)
 })
 
-app.get("/videostories/oldTestment", (req,res) => {
-    return res.json(videoStories.oldTestment)
+app.get("/videoStories/oldTestment", (req,res) => {
+    return res.json(videosOverview.oldTestment)
 })
 
-app.get("/videostories/newTestment", (req,res) => {
-    return res.json(videoStories.newTestment)
+app.get("/videoStories/newTestment", (req,res) => {
+    return res.json(videosOverview.newTestment)
 })
 
+//API New version videoOverview
+app.get("/videosOverview", (req,res) => {
+    return res.json(videosOverview)
+})
+
+app.get("/videosOverview/oldTestment", (req,res) => {
+    return res.json(videosOverview.oldTestment)
+})
+
+app.get("/videosOverview/newTestment", (req,res) => {
+    return res.json(videosOverview.newTestment)
+})
+
+// Sinopses e overviews
 app.get("/sinopsesOverview", (req,res) => {
     return res.json(sinopsesOverview)
 })
