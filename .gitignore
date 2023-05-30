@@ -1,5 +1,6 @@
 stories copy.json
 stories copy.txt
+detaApi
 
 # Logs
 logs
@@ -7,6 +8,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock
 lerna-debug.log*
 .pnpm-debug.log*
 
