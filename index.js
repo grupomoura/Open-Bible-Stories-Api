@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
 const port = process.env.PORT || 3000
-import upload from './detaApi/index.js';
+// import upload from './detaApi/index.js';
 
 const stories = require("./src/stories/stories.json")
 const videosOverview = require("./src/stories/videosOverview.json")
