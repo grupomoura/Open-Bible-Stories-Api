@@ -1,10 +1,18 @@
 const express = require("express")
 const app = express()
 const port = process.env.PORT || 3000
+import upload from './detaApi/index.js';
 
 const stories = require("./src/stories/stories.json")
 const videosOverview = require("./src/stories/videosOverview.json")
 const sinopsesOverview = require("./src/stories/sinopsesOverview.json")
+
+// //Deta upload
+// app.post("/upload", (req,res) => {
+//     console.log(req)
+//     upload(req)
+//     return res.json(videosOverview)
+// })
 
 //API Old version videoOverview
 app.get("/videoStories", (req,res) => {
@@ -115,7 +123,7 @@ app.get("/sinopsesOverview/oldTestment/sng", (req,res) => {
 app.get("/sinopsesOverview/oldTestment/isa", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][23])
 })
-app.get("/sinopsesOverview/oldTestment/ger", (req,res) => {
+app.get("/sinopsesOverview/oldTestment/jer", (req,res) => {
     return res.json(sinopsesOverview.sinopsesOverview[1][24])
 })
 app.get("/sinopsesOverview/oldTestment/lam", (req,res) => {
