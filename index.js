@@ -1,18 +1,13 @@
 const express = require("express")
 const app = express()
 const port = process.env.PORT || 3000
-// import upload from './detaApi/index.js';
+const cors = require("cors");
+
+app.use(cors()); // Permitir acesso CORS para todas as origens
 
 const stories = require("./src/stories/stories.json")
 const videosOverview = require("./src/stories/videosOverview.json")
 const sinopsesOverview = require("./src/stories/sinopsesOverview.json")
-
-// //Deta upload
-// app.post("/upload", (req,res) => {
-//     console.log(req)
-//     upload(req)
-//     return res.json(videosOverview)
-// })
 
 //API Old version videoOverview
 app.get("/videoStories", (req,res) => {
