@@ -40,10 +40,6 @@ app.get("/", (req, res) => {
         description: "Esta é a API da nossa aplicação ChurchApp, onde você pode acessar diversos recursos.",
         documentation: [
             {
-                title: "Documentação Baserow",
-                link: `${req.protocol}://${req.get('host')}/api-docs-baserow`
-            },
-            {
                 title: "Documentação API",
                 link: `${req.protocol}://${req.get('host')}/api-docs`
             }
