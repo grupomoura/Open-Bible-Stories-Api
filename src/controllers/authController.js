@@ -62,7 +62,8 @@ exports.login = async (req, res) => {
   // Busca o usuário no Baserow
   const options = {
     method: 'GET',
-    url: `${baserowApiUrl}/api/database/rows/table/${BaserowAuthTableId}/?search=${email}&user_field_names=true`,
+    hostname: 'api.baserow.io',
+    path: `/api/database/rows/table/${BaserowAuthTableId}/?search=${email}&user_field_names=true`,
     headers: {
       'Authorization': `Token ${BaserowToken}`
     },

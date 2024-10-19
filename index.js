@@ -24,6 +24,11 @@ app.use((req, res, next) => {
     next();
 });
 
+// API Welcome
+app.get("/", (req, res) => {
+    return res.json({ message: "Olá bem vindo!, você esta em um local seguro!" });
+});
+
 // Aplicar o middleware de autenticação em todas as rotas abaixo
 app.use(authMiddleware);
 
@@ -50,11 +55,7 @@ app.use((err, req, res, next) => {
     res.status(500).json({ error: 'Erro interno do servidor' });
 });
 
-// API Welcome
-app.get("/", (req, res) => {
-  return res.json({ res: "Olá bem vindo!, você esta em um local seguro!" });
-});
-
 app.listen(port, () => {
   logger.info(`Servidor rodando na porta ${port}`);
+  console.log(`Documentação disponível em: http://localhost:${port}/api-docs`);
 });
