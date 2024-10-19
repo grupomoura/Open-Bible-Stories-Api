@@ -5,6 +5,15 @@ const cors = require("cors");
 const logger = require('./src/logger'); // Importa o logger
 const authRoutes = require("./src/routes/authRoutes"); // Importando as rotas de autenticação
 const authMiddleware = require("./src/middleware/authMiddleware"); // Importar o middleware
+const swaggerUi = require('swagger-ui-express');
+const fs = require('fs');
+const YAML = require('yamljs');
+
+// Carregar o arquivo YAML gerado pela conversão
+const churchApp_swagger_api = YAML.load('src/config/churchApp_swagger_api.yaml');
+
+// Usar o Swagger UI para servir a documentação
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(churchApp_swagger_api));
 
 app.use(express.json()); // Middleware para parsing de JSON
 app.use(express.urlencoded({ extended: true })); // Para parsing de dados de formulário
@@ -26,7 +35,20 @@ app.use((req, res, next) => {
 
 // API Welcome
 app.get("/", (req, res) => {
-    return res.json({ message: "Olá bem vindo!, você esta em um local seguro!" });
+    return res.json({
+        message: "Olá, bem-vindo! Você está em um local seguro.",
+        description: "Esta é a API da nossa aplicação ChurchApp, onde você pode acessar diversos recursos.",
+        documentation: [
+            {
+                title: "Documentação Baserow",
+                link: `${req.protocol}://${req.get('host')}/api-docs-baserow`
+            },
+            {
+                title: "Documentação API",
+                link: `${req.protocol}://${req.get('host')}/api-docs`
+            }
+        ]
+    });
 });
 
 // Aplicar o middleware de autenticação em todas as rotas abaixo
