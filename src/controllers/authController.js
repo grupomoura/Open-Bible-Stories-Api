@@ -8,6 +8,7 @@ require('dotenv').config();
 const SECRET_KEY = process.env.SECRET_KEY; // Chave secreta para JWT
 const BaserowToken = process.env.BASEROW_API_TOKEN;
 const BaserowAuthTableId = process.env.BASEROW_AUTH_TABLE_ID;
+const baserowApiUrl = process.env.BASEROW_API_URL;
 
 // Função de verificação de email já existente no Baserow
 function checkIfEmailExists(email) {
@@ -61,8 +62,7 @@ exports.login = async (req, res) => {
   // Busca o usuário no Baserow
   const options = {
     method: 'GET',
-    hostname: 'api.baserow.io',
-    path: `/api/database/rows/table/${BaserowAuthTableId}/?search=${email}&user_field_names=true`,
+    url: `${baserowApiUrl}/api/database/rows/table/${BaserowAuthTableId}/?search=${email}&user_field_names=true`,
     headers: {
       'Authorization': `Token ${BaserowToken}`
     },
@@ -141,7 +141,7 @@ exports.register = async (req, res) => {
 
     var options = {
       method: 'POST',
-      url: `https://api.baserow.io/api/database/rows/table/${BaserowAuthTableId}/?user_field_names=true`,
+      url: `${baserowApiUrl}/api/database/rows/table/${BaserowAuthTableId}/?user_field_names=true`,
       headers: {
         'Authorization': `Token ${BaserowToken}`,
         'Content-Type': 'application/json'
