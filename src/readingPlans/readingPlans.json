@@ -1,0 +1,494 @@
+{
+    "readingPlans": [
+                {
+                  "Titulo": "Estudo bíblico para casais: Fundamentos Bíblicos do Relacionamento Conjugal",
+                  "Descricao": "Este estudo bíblico para casais explora os fundamentos bíblicos para o casamento, abordando temas como amor, respeito, submissão e fidelidade. É ideal para casais que desejam fortalecer sua união conforme os princípios das Escrituras.",
+                  "Dias": [
+                    {
+                      "Dia": 1,
+                      "Leitura": [
+                        {
+                          "Livro": "Gênesis",
+                          "Capitulo": "2",
+                          "VersiculoInicio": "24",
+                          "VersiculoFim": "24",
+                          "Titulo": "O Propósito Divino do Casamento"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 2,
+                      "Leitura": [
+                        {
+                          "Livro": "1 Coríntios",
+                          "Capitulo": "13",
+                          "VersiculoInicio": "4",
+                          "VersiculoFim": "7",
+                          "Titulo": "O Papel do Amor no Casamento"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 3,
+                      "Leitura": [
+                        {
+                          "Livro": "Gênesis",
+                          "Capitulo": "21",
+                          "VersiculoInicio": "1",
+                          "VersiculoFim": "7",
+                          "Titulo": "Abraão e Sara: Confiança em Deus"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 4,
+                      "Leitura": [
+                        {
+                          "Livro": "Rute",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "17",
+                          "Titulo": "Rute e Boaz: Amor e Redenção"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 5,
+                      "Leitura": [
+                        {
+                          "Livro": "Efésios",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "29",
+                          "VersiculoFim": "29",
+                          "Titulo": "Princípios Bíblicos para um Casamento Saudável"
+                        },
+                        {
+                          "Livro": "Colossenses",
+                          "Capitulo": "3",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "13",
+                          "Titulo": "Princípios Bíblicos para um Casamento Saudável"
+                        },
+                        {
+                          "Livro": "Filipenses",
+                          "Capitulo": "2",
+                          "VersiculoInicio": "3",
+                          "VersiculoFim": "4",
+                          "Titulo": "Princípios Bíblicos para um Casamento Saudável"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 6,
+                      "Leitura": [
+                        {
+                          "Livro": "Efésios",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "29",
+                          "VersiculoFim": "29",
+                          "Titulo": "Comunicação Eficaz"
+                        },
+                        {
+                          "Livro": "Colossenses",
+                          "Capitulo": "3",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "13",
+                          "Titulo": "Perdão e Reconciliação"
+                        },
+                        {
+                          "Livro": "Mateus",
+                          "Capitulo": "18",
+                          "VersiculoInicio": "19",
+                          "VersiculoFim": "20",
+                          "Titulo": "Orando Juntos Como Casal"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 7,
+                      "Leitura": [
+                        {
+                          "Livro": "Filipenses",
+                          "Capitulo": "2",
+                          "VersiculoInicio": "3",
+                          "VersiculoFim": "4",
+                          "Titulo": "Servindo um ao Outro"
+                        },
+                        {
+                          "Livro": "Efésios",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "23",
+                          "VersiculoFim": "23",
+                          "Titulo": "Como o marido deve tratar a esposa segundo a Bíblia"
+                        },
+                        {
+                          "Livro": "Efésios",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "25",
+                          "VersiculoFim": "25",
+                          "Titulo": "Como o marido deve tratar a esposa segundo a Bíblia"
+                        },
+                        {
+                          "Livro": "Efésios",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "28",
+                          "VersiculoFim": "29",
+                          "Titulo": "Como o marido deve tratar a esposa segundo a Bíblia"
+                        }
+                      ]
+                    }
+                  ],
+                  "Conclusao": "Chegamos ao fim dessa viagem de estudo bíblico para casais. Que tal orar juntos, fortalecendo sua união com Deus? E que tal servir um ao outro, buscando o melhor para o outro, como a Bíblia ensina? Continue crescendo juntos, com a Palavra de Deus, para que os ensinamentos bíblicos tragam bênção ao seu casamento, tornando sua união mais profunda e duradoura."
+                },
+                {
+                  "Titulo": "Plano de Leitura Bíblica para Crianças",
+                  "Descricao": "Este plano de leitura foi criado para que crianças, com ou sem a ajuda de um adulto, possam crescer no conhecimento dos valores que a Bíblia nos ensina, utilizando o Evangelho de Marcos como base.",
+                  "Dias": [
+                    {
+                      "Dia": 1,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "1",
+                          "VersiculoInicio": "1",
+                          "VersiculoFim": "5",
+                          "Titulo": "João Batista prepara o caminho"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 2,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "1",
+                          "VersiculoInicio": "9",
+                          "VersiculoFim": "15",
+                          "Titulo": "Anunciando as boas notícias"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 3,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "1",
+                          "VersiculoInicio": "16",
+                          "VersiculoFim": "18",
+                          "Titulo": "Pescadores de gente"
+                        },
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "3",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "15",
+                          "Titulo": "Pescadores de gente"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 4,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "2",
+                          "VersiculoFim": "8",
+                          "Titulo": "Uma história sobre um fazendeiro"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 5,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "17",
+                          "Titulo": "Uma semente especial!"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 6,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "4",
+                          "VersiculoInicio": "18",
+                          "VersiculoFim": "20",
+                          "Titulo": "Os espinhos e a terra boa"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 7,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "1",
+                          "VersiculoFim": "7",
+                          "Titulo": "Um homem dominado"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 8,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "9",
+                          "VersiculoFim": "13",
+                          "Titulo": "Expulsando os espíritos maus"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 9,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "5",
+                          "VersiculoInicio": "14",
+                          "VersiculoFim": "20",
+                          "Titulo": "Vestido e com juízo"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 10,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "6",
+                          "VersiculoInicio": "31",
+                          "VersiculoFim": "34",
+                          "Titulo": "Uma multidão para ensinar"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 11,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "6",
+                          "VersiculoInicio": "35",
+                          "VersiculoFim": "38",
+                          "Titulo": "E para comer... 5 pães e 2 peixes!"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 12,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "6",
+                          "VersiculoInicio": "39",
+                          "VersiculoFim": "44",
+                          "Titulo": "Cinco e dois é muito!"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 13,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "8",
+                          "VersiculoInicio": "27",
+                          "VersiculoFim": "30",
+                          "Titulo": "Quem sou eu?"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 14,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "8",
+                          "VersiculoInicio": "31",
+                          "VersiculoFim": "33",
+                          "Titulo": "Rejeitado e morto, mas e depois?"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 15,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "8",
+                          "VersiculoInicio": "34",
+                          "VersiculoFim": "38",
+                          "Titulo": "Como ganhar uma vida de verdade"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 16,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "9",
+                          "VersiculoInicio": "14",
+                          "VersiculoFim": "18",
+                          "Titulo": "Ajudando um pai a ter seu filho de volta"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 17,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "9",
+                          "VersiculoInicio": "19",
+                          "VersiculoFim": "23",
+                          "Titulo": "Tudo é possível"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 18,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "9",
+                          "VersiculoInicio": "24",
+                          "VersiculoFim": "29",
+                          "Titulo": "E o filho voltou"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 19,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "10",
+                          "VersiculoInicio": "13",
+                          "VersiculoFim": "16",
+                          "Titulo": "Jesus e as crianças"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 20,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "10",
+                          "VersiculoInicio": "17",
+                          "VersiculoFim": "21",
+                          "Titulo": "Mais uma coisa"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 21,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "10",
+                          "VersiculoInicio": "22",
+                          "VersiculoFim": "27",
+                          "Titulo": "Um camelo em uma agulha"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 22,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "11",
+                          "VersiculoInicio": "1",
+                          "VersiculoFim": "6",
+                          "Titulo": "Um jumentinho"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 23,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "11",
+                          "VersiculoInicio": "7",
+                          "VersiculoFim": "11",
+                          "Titulo": "Hosana!"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 24,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "11",
+                          "VersiculoInicio": "15",
+                          "VersiculoFim": "18",
+                          "Titulo": "Esta é a casa de Deus"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 25,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "15",
+                          "VersiculoInicio": "16",
+                          "VersiculoFim": "24",
+                          "Titulo": "O Rei com coroa de espinhos"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 26,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "15",
+                          "VersiculoInicio": "33",
+                          "VersiculoFim": "39",
+                          "Titulo": "Ele é o Filho de Deus"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 27,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "15",
+                          "VersiculoInicio": "42",
+                          "VersiculoFim": "46",
+                          "Titulo": "Colocado num túmulo"
+                        }
+                      ]
+                    },
+                    {
+                      "Dia": 28,
+                      "Leitura": [
+                        {
+                          "Livro": "Marcos",
+                          "Capitulo": "16",
+                          "VersiculoInicio": "1",
+                          "VersiculoFim": "6",
+                          "Titulo": "Vivo de novo!"
+                        }
+                      ]
+                    }
+                  ],
+                  "Conclusao": "Jesus é o Filho de Deus. É o Salvador que Deus prometeu enviar. É o “Messias”, aquele que Deus escolheu. Jesus deu a sua própria vida para salvar as pessoas. Isso que é amor de verdade!"
+                }
+    ]
+}

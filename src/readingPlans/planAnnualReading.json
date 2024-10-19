@@ -1,0 +1,190 @@
+{
+    "PlanoLeitura": {
+      "Titulo": "Plano de Leitura da Bíblia em 1 Ano",
+      "Descricao": "Este plano organiza a leitura diária da Bíblia em 365 dias, permitindo uma leitura completa ao longo de um ano, abrangendo tanto o Antigo quanto o Novo Testamento.",
+      "Dias": [
+        {
+          "Dia": 1,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 1, "CapituloFim": 3 }
+          ]
+        },
+        {
+          "Dia": 2,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 4, "CapituloFim": 6 }
+          ]
+        },
+        {
+          "Dia": 3,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 7, "CapituloFim": 9 }
+          ]
+        },
+        {
+          "Dia": 4,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 10, "CapituloFim": 12 }
+          ]
+        },
+        {
+          "Dia": 5,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 13, "CapituloFim": 16 }
+          ]
+        },
+        {
+          "Dia": 6,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 17, "CapituloFim": 19 }
+          ]
+        },
+        {
+          "Dia": 7,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 20, "CapituloFim": 22 }
+          ]
+        },
+        {
+          "Dia": 8,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 23, "CapituloFim": 24 }
+          ]
+        },
+        {
+          "Dia": 9,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 25, "CapituloFim": 27 }
+          ]
+        },
+        {
+          "Dia": 10,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 28, "CapituloFim": 30 }
+          ]
+        },
+        {
+          "Dia": 11,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 31, "CapituloFim": 32 }
+          ]
+        },
+        {
+          "Dia": 12,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 33, "CapituloFim": 35 }
+          ]
+        },
+        {
+          "Dia": 13,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 36, "CapituloFim": 37 }
+          ]
+        },
+        {
+          "Dia": 14,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 38, "CapituloFim": 40 }
+          ]
+        },
+        {
+          "Dia": 15,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 41, "CapituloFim": 42 }
+          ]
+        },
+        {
+          "Dia": 16,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 43, "CapituloFim": 45 }
+          ]
+        },
+        {
+          "Dia": 17,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 46, "CapituloFim": 47 }
+          ]
+        },
+        {
+          "Dia": 18,
+          "Leitura": [
+            { "Livro": "Gênesis", "CapituloInicio": 48, "CapituloFim": 50 }
+          ]
+        },
+        {
+          "Dia": 19,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 1, "CapituloFim": 4 }
+          ]
+        },
+        {
+          "Dia": 20,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 5, "CapituloFim": 7 }
+          ]
+        },
+        {
+          "Dia": 21,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 8, "CapituloFim": 10 }
+          ]
+        },
+        {
+          "Dia": 22,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 11, "CapituloFim": 13 }
+          ]
+        },
+        {
+          "Dia": 23,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 14, "CapituloFim": 16 }
+          ]
+        },
+        {
+          "Dia": 24,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 17, "CapituloFim": 20 }
+          ]
+        },
+        {
+          "Dia": 25,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 21, "CapituloFim": 23 }
+          ]
+        },
+        {
+          "Dia": 26,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 24, "CapituloFim": 26 }
+          ]
+        },
+        {
+          "Dia": 27,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 27, "CapituloFim": 29 }
+          ]
+        },
+        {
+          "Dia": 28,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 30, "CapituloFim": 32 }
+          ]
+        },
+        {
+          "Dia": 29,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 33, "CapituloFim": 35 }
+          ]
+        },
+        {
+          "Dia": 30,
+          "Leitura": [
+            { "Livro": "Êxodo", "CapituloInicio": 36, "CapituloFim": 40 }
+          ]
+        }
+        // Continuação para os próximos dias do plano...
+      ]
+    }
+  }
+  
